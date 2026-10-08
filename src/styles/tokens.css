@@ -1,0 +1,12 @@
+@theme {
+  --color-brand: #6250d8;
+  --color-brand-dark: #4a3bb5;
+  --color-ink: #20222a;
+  --color-paper: #fafaf7;
+  --color-pale: #efecff;
+  --color-mute: #626774;
+  --color-rule: #e3e1da;
+  --font-serif: 'Noto Serif KR', serif;
+  --font-sans: 'Noto Sans KR', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+}

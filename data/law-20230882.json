@@ -1,0 +1,198 @@
+{
+  "law": {
+    "id": "20230882",
+    "parentId": "00000000",
+    "rank": 10,
+    "name": "국가재정법",
+    "issue": "미래대응기금",
+    "summary": "국가재정법과 관련하여 미래대응기금 이슈는 국회의 재정 통제권 약화 가능성에 대한 우려를 중심으로 다루고 있습니다. 정부가 미래대응기금의 주요 지출액을 30%까지 자체 변경할 수 있도록 하는 계획이 논란이 되고 있으며, 이는 국회의 사전적 심의·통제 범위를 축소시킬 수 있다는 우려를 낳고 있습니다. 또한, 정부가 세수 부족 시 추가경정예산 없이 일반회계로 자금을 전출할 수 있도록 하는 것도 국회의 사전 재정통제 기능을 약화시킬 수 있다는 지적이 있습니다.",
+    "updated": "2026-10-05",
+    "sourceUrl": "https://argos.nanet.go.kr/main/fusionanalysis/lawIssueGuest.do?lawKwdId=20230882&lawKwdPid=00000000&titleNm=%EA%B5%AD%EA%B0%80%EC%9E%AC%EC%A0%95%EB%B2%95"
+  },
+  "fullName": "국가재정법",
+  "enacted": "2006-10-04",
+  "timeline": [
+    {
+      "id": "ISS-0",
+      "kind": "이슈",
+      "date": "2026-10-04",
+      "title": "미래대응기금",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-1",
+      "kind": "이슈",
+      "date": "2024-05-02",
+      "title": "국가 비상금 해외 순방",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ACT-2",
+      "kind": "시행",
+      "date": "2023-01-01",
+      "title": "국가재정법 실행",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MODI-5",
+      "kind": "개정",
+      "date": "2022-12-31",
+      "title": "국가재정법 개정",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "PROD-7",
+      "kind": "공포",
+      "date": "2022-12-31",
+      "title": "국가재정법 공포",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-3",
+      "kind": "이슈",
+      "date": "2022-12-24",
+      "title": "내년 고등교육 특별회계",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-4",
+      "kind": "회의록",
+      "date": "2022-12-24",
+      "title": "제21대국회 제401회 제3차 국회본회의",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-6",
+      "kind": "보도",
+      "date": "2022-12-24",
+      "title": "2023년 고등·평생교육 부문 교육부 예산 예년 대비 약 2조원 증액",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/421/0006537763?rc=N&ntype=RANKING"
+    },
+    {
+      "id": "MEET-9",
+      "kind": "회의록",
+      "date": "2022-11-18",
+      "title": "제21대국회 제400회 제7차 기획재정위원회",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-8",
+      "kind": "이슈",
+      "date": "2022-11-16",
+      "title": "고등교육특별회계 법안 반대",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-10",
+      "kind": "보도",
+      "date": "2022-11-16",
+      "title": "고등교육특별회계 법안 추진에 반대 입장 밝힌 교육감 특별위",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/056/0011375117?rc=N&ntype=RANKING"
+    },
+    {
+      "id": "BILL-11",
+      "kind": "의안",
+      "date": "2022-09-02",
+      "title": "국가재정법 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-12",
+      "kind": "이슈",
+      "date": "2022-03-13",
+      "title": "고등교육재정특별법",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-13",
+      "kind": "보도",
+      "date": "2022-03-13",
+      "title": "한국대학교육협의회, 대통령 당선인에 대학 발전 정책 요청",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/088/0000748972"
+    },
+    {
+      "id": "APOS-14",
+      "kind": "세미나",
+      "date": "2021-08-26",
+      "title": "고등교육재정 확대와 고등교육재정교부금법 제정을 위한 토론회",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MAKE-15",
+      "kind": "제정",
+      "date": "2006-10-04",
+      "title": "국가재정법 제정",
+      "count": 1,
+      "url": ""
+    }
+  ],
+  "records": [
+    {
+      "number": "2117193",
+      "title": "국가재정법 일부개정법률안",
+      "proposer": "이태규",
+      "status": "공포(수정가결)",
+      "date": "2022-09-02",
+      "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2B2X0A8I3O0D1H0C1H5Y5A9C0A6R4"
+    }
+  ],
+  "bills": [
+    {
+      "id": "PRC_U2B2X0A8I3O0D1H0C1H5Y5A9C0A6R4",
+      "number": "2117193",
+      "title": "국가재정법 일부개정법률안(이태규의원 등 14인)",
+      "proposed": "2022-09-02",
+      "decided": "2022-12-24",
+      "result": "수정가결",
+      "committee": "기획재정위원회",
+      "promulgated": "2022-12-31",
+      "people": [
+        {
+          "id": "21st:LEETAEKYU",
+          "name": "이태규",
+          "profileUrl": "https://www.assembly.go.kr/members/21st/LEETAEKYU",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/QTW6852F.jpg",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2B2X0A8I3O0D1H0C1H5Y5A9C0A6R4",
+      "hasAlternatives": false,
+      "text": "제안이유 및 주요내용\r\n\r\n  「고등？평생교육지원특별회계법」에서는 고등교육과 평생교육을 안정적으로 지원하고 국민의 학습권을 보장하기 위하여 고등？평생교육지원 특별회계를 설치하고 이를 교육부장관이 운용？관리하도록 하고 있음.\r\n  그런데 「국가재정법」 제4조에 따르면 국가의 특별회계는 별표 1에 규정된 법률에 의하지 아니하고는 특별회계를 설치할 수 없도록 규정하고 있음. \r\n  이에 국민의 능력과 적성에 따라 교육 받을 권리를 안정적으로 보장하기 위하여 고등？평생교육지원 특별회계의 설치 근거를 「국가재정법」 별표 1에 추가하려는 것임(안 별표 1 제23호 신설).\r\n\r\n\r\n참고사항\r\n\r\n가. 이 법률안은 이태규의원이 대표발의한 「고등？평생교육지원특별회계법안」(의안번호 제17196호)의 의결을 전제로 하는 것이므로 같은 법률안이 의결되지 아니하거나 수정의결되는 경우에는 이에 맞추어 조정되어야 할 것임.\r\n나. 이 법률안은 「국회법」 제85조의3제4항에 따라 2023년도 세입예산안 부수 법률안으로 지정될 필요가 있음.",
+      "fetchedAt": "2026-10-08T06:11:58.733Z",
+      "mode": "live",
+      "relation": "최근 연결 의안"
+    }
+  ],
+  "people": [
+    {
+      "id": "21st:LEETAEKYU",
+      "name": "이태규",
+      "profileUrl": "https://www.assembly.go.kr/members/21st/LEETAEKYU",
+      "image": "https://www.assembly.go.kr/static/portal/img/openassm/QTW6852F.jpg",
+      "role": "대표발의",
+      "billIds": [
+        "PRC_U2B2X0A8I3O0D1H0C1H5Y5A9C0A6R4"
+      ]
+    }
+  ],
+  "alternativeTotal": 0,
+  "scope": "아르고스가 최근 연결한 의안 1건과 그 대안에 연결된 원안(최대 20건)",
+  "warnings": [],
+  "fetchedAt": "2026-10-08T06:11:58.747Z",
+  "mode": "live"
+}

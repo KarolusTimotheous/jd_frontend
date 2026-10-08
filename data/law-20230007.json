@@ -1,0 +1,1578 @@
+{
+  "law": {
+    "id": "20230007",
+    "parentId": "00000000",
+    "rank": 1,
+    "name": "마약류관리법",
+    "issue": "마약 매매 유죄",
+    "summary": "마약류관리법은 마약류의 불법 매매 등 위반 행위에 대한 처벌을 규정하고 있습니다. 이와 관련한 마약 매매 유죄 이슈는 필로폰을 판매한 후 구매자의 요구로 대금을 즉시 환불했더라도 마약류 매매죄가 성립한다는 대법원의 판단입니다. 대법원은 매매가 이미 성립한 이상 환불 여부와 관계없이 처벌할 수 있다고 판단해 판매자에게 징역 2년 6개월과 추징금 50만 원을 확정했습니다.",
+    "updated": "2026-10-07",
+    "sourceUrl": "https://argos.nanet.go.kr/main/fusionanalysis/lawIssueGuest.do?lawKwdId=20230007&lawKwdPid=00000000&titleNm=%EB%A7%88%EC%95%BD%EB%A5%98%EA%B4%80%EB%A6%AC%EB%B2%95"
+  },
+  "fullName": "마약류 관리에 관한 법률",
+  "enacted": "2000-01-12",
+  "timeline": [
+    {
+      "id": "ISS-0",
+      "kind": "이슈",
+      "date": "2026-10-06",
+      "title": "마약 매매 유죄",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "PROD-1",
+      "kind": "공포",
+      "date": "2026-09-15",
+      "title": "마약류 관리에 관한 법률 공포",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-2",
+      "kind": "이슈",
+      "date": "2026-08-29",
+      "title": "필로폰 투약",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-6",
+      "kind": "회의록",
+      "date": "2026-08-20",
+      "title": "제22대국회 제438회 제1차 국회본회의",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-3",
+      "kind": "이슈",
+      "date": "2026-08-14",
+      "title": "해외직구 식품 마약",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-4",
+      "kind": "이슈",
+      "date": "2026-08-13",
+      "title": "명문대 마약동아리 깐부",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-5",
+      "kind": "이슈",
+      "date": "2026-08-05",
+      "title": "의료용 마약류 관리부실",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-7",
+      "kind": "이슈",
+      "date": "2026-07-27",
+      "title": "마약 불법 투약",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-8",
+      "kind": "이슈",
+      "date": "2026-07-10",
+      "title": "마약 의심",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-9",
+      "kind": "이슈",
+      "date": "2026-07-08",
+      "title": "의료용 마약류 부실관리",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-10",
+      "kind": "이슈",
+      "date": "2026-06-30",
+      "title": "프로포폴 공장",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-11",
+      "kind": "이슈",
+      "date": "2026-06-20",
+      "title": "명문대 연합 마약 동아리",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-12",
+      "kind": "이슈",
+      "date": "2026-06-13",
+      "title": "은어 닉네임 벌금",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-13",
+      "kind": "이슈",
+      "date": "2026-06-09",
+      "title": "신종 마약",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "PROD-17",
+      "kind": "공포",
+      "date": "2026-05-26",
+      "title": "마약류 관리에 관한 법률 공포",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-14",
+      "kind": "이슈",
+      "date": "2026-05-14",
+      "title": "마약 대금",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-15",
+      "kind": "이슈",
+      "date": "2026-05-03",
+      "title": "청담사장 구속 심사",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-16",
+      "kind": "이슈",
+      "date": "2026-05-01",
+      "title": "박왕열 마약 공급책 송환",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-21",
+      "kind": "회의록",
+      "date": "2026-04-23",
+      "title": "제22대국회 제434회 제7차 국회본회의",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-18",
+      "kind": "이슈",
+      "date": "2026-04-07",
+      "title": "벤조디아제핀 처방 증가",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-19",
+      "kind": "이슈",
+      "date": "2026-04-06",
+      "title": "모텔 연쇄살인",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-20",
+      "kind": "이슈",
+      "date": "2026-04-05",
+      "title": "마약 합동단속",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-22",
+      "kind": "의안",
+      "date": "2026-03-30",
+      "title": "마약류 관리에 관한 법률 일부개정법률안(대안)",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-23",
+      "kind": "이슈",
+      "date": "2026-03-28",
+      "title": "프로포폴 투약 차량 사고",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-24",
+      "kind": "이슈",
+      "date": "2026-03-27",
+      "title": "약물 운전자 반포대교 추락",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-27",
+      "kind": "회의록",
+      "date": "2026-03-13",
+      "title": "제22대국회 제433회 제2차 정무위원회",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-25",
+      "kind": "이슈",
+      "date": "2026-03-10",
+      "title": "반포대교 약물운전",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-26",
+      "kind": "이슈",
+      "date": "2026-03-03",
+      "title": "포르쉐 약물 운전",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-28",
+      "kind": "이슈",
+      "date": "2026-02-16",
+      "title": "의사 마약사범",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-29",
+      "kind": "이슈",
+      "date": "2026-01-26",
+      "title": "차 봉지 필로폰",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-30",
+      "kind": "의안",
+      "date": "2025-11-26",
+      "title": "마약류 관리에 관한 법률 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-33",
+      "kind": "회의록",
+      "date": "2025-11-18",
+      "title": "제22대국회 제429회 제2차 보건복지위원회",
+      "count": 3,
+      "url": ""
+    },
+    {
+      "id": "ISS-31",
+      "kind": "이슈",
+      "date": "2025-11-16",
+      "title": "프로포폴 무제한 투약 실형",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "PROD-34",
+      "kind": "공포",
+      "date": "2025-11-11",
+      "title": "마약류 관리에 관한 법률 공포",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-32",
+      "kind": "이슈",
+      "date": "2025-11-06",
+      "title": "식욕억제제 다이어트",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-35",
+      "kind": "의안",
+      "date": "2025-10-29",
+      "title": "마약류 관리에 관한 법률 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-36",
+      "kind": "이슈",
+      "date": "2025-10-14",
+      "title": "캄보디아 노동자 마약 밀수",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-37",
+      "kind": "이슈",
+      "date": "2025-10-08",
+      "title": "마약 쇼핑",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-38",
+      "kind": "이슈",
+      "date": "2025-09-29",
+      "title": "펜션 변기 마약 주사기",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-39",
+      "kind": "이슈",
+      "date": "2025-09-28",
+      "title": "의료용 마약류 수사 착수",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-40",
+      "kind": "이슈",
+      "date": "2025-09-02",
+      "title": "감기약 환각 놀이",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-41",
+      "kind": "의안",
+      "date": "2025-08-20",
+      "title": "마약류 관리에 관한 법률 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-42",
+      "kind": "이슈",
+      "date": "2025-08-18",
+      "title": "마약 던지기",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-43",
+      "kind": "이슈",
+      "date": "2025-07-21",
+      "title": "전신마취제 불법 유통",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-44",
+      "kind": "이슈",
+      "date": "2025-07-15",
+      "title": "마약 텔레그램 거래",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-47",
+      "kind": "보도",
+      "date": "2025-06-27",
+      "title": "김윤석이 연기한 ‘추격자’ 실존 인물…마약 판매로 실형",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/016/0002491433"
+    },
+    {
+      "id": "ISS-45",
+      "kind": "이슈",
+      "date": "2025-06-23",
+      "title": "칸나비디올 대마 해당",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-46",
+      "kind": "이슈",
+      "date": "2025-06-10",
+      "title": "칸나비디올 대마 주의",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-48",
+      "kind": "이슈",
+      "date": "2025-04-14",
+      "title": "이철규 아들 대마 양성반응",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-49",
+      "kind": "이슈",
+      "date": "2025-04-09",
+      "title": "좀비마약 밀수입",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-50",
+      "kind": "이슈",
+      "date": "2025-04-08",
+      "title": "강남 학원가 마약음료",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "PROD-51",
+      "kind": "공포",
+      "date": "2025-04-01",
+      "title": "마약류 관리에 관한 법률 공포",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-53",
+      "kind": "이슈",
+      "date": "2025-03-18",
+      "title": "마약 감기약 불법 반입",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-57",
+      "kind": "회의록",
+      "date": "2025-03-18",
+      "title": "제22대국회 제423회 (임시회) 제1차 보건복지위원회(2025.03.18.)",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "PROD-59",
+      "kind": "공포",
+      "date": "2025-03-18",
+      "title": "마약류 관리에 관한 법률 공포",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-54",
+      "kind": "이슈",
+      "date": "2025-03-17",
+      "title": "엑스터시 밀수입",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-58",
+      "kind": "보도",
+      "date": "2025-03-17",
+      "title": "한류의 그림자… 작년 부산서 외국인 마약사범 102% 껑충",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/003/0013123319"
+    },
+    {
+      "id": "BILL-52",
+      "kind": "의안",
+      "date": "2025-03-12",
+      "title": "마약류 관리에 관한 법률 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-55",
+      "kind": "이슈",
+      "date": "2025-03-10",
+      "title": "이철규 아들 늑장 수사 의혹",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-56",
+      "kind": "이슈",
+      "date": "2025-03-05",
+      "title": "의료용 마약류 오남용 적발",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-66",
+      "kind": "회의록",
+      "date": "2025-02-26",
+      "title": "회의록 [제22대국회 제422회 제2차 법제사법위원회]",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-62",
+      "kind": "이슈",
+      "date": "2025-02-24",
+      "title": "마약 밀수 남녀 검거",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-63",
+      "kind": "이슈",
+      "date": "2025-02-14",
+      "title": "의사 마약상",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-61",
+      "kind": "의안",
+      "date": "2025-02-12",
+      "title": "마약류 관리에 관한 법률 일부개정법률안",
+      "count": 2,
+      "url": ""
+    },
+    {
+      "id": "ACT-60",
+      "kind": "시행",
+      "date": "2025-02-07",
+      "title": "마약류 관리에 관한 법률 실행",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-64",
+      "kind": "이슈",
+      "date": "2025-02-06",
+      "title": "대마 투약 혐의 태영호 장남 불송치",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-65",
+      "kind": "이슈",
+      "date": "2025-02-04",
+      "title": "마약 중독 판별",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-68",
+      "kind": "이슈",
+      "date": "2025-01-24",
+      "title": "마약 강제 흡입",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-71",
+      "kind": "보도",
+      "date": "2025-01-24",
+      "title": "\"손 묶고 안대 씌워서\"..마약 강제투약 주장 女아나 '검찰 송치'",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/660/0000078053"
+    },
+    {
+      "id": "ISS-69",
+      "kind": "이슈",
+      "date": "2025-01-22",
+      "title": "프로포폴 셀프 처방 금지",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-67",
+      "kind": "의안",
+      "date": "2025-01-10",
+      "title": "마약류 관리에 관한 법률 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-70",
+      "kind": "이슈",
+      "date": "2025-01-08",
+      "title": "명문대 연합 마약동아리",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-72",
+      "kind": "보도",
+      "date": "2025-01-08",
+      "title": "명문대 '마약 동아리' 회장 1심 징역 3년… \"죄질 불량, 악영향 커\"",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/469/0000842974"
+    },
+    {
+      "id": "ISS-73",
+      "kind": "이슈",
+      "date": "2024-12-30",
+      "title": "에토미데이트 마약류 지정",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-77",
+      "kind": "보도",
+      "date": "2024-12-30",
+      "title": "무분별 처방 논란에 '에토미데이트' 결국 마약류로 지정",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/003/0012987392"
+    },
+    {
+      "id": "ISS-74",
+      "kind": "이슈",
+      "date": "2024-12-11",
+      "title": "강남 마약음료 제조 징역",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-78",
+      "kind": "보도",
+      "date": "2024-12-11",
+      "title": "대치동 발칵 필로폰 우유 뿌린 그녀석…항소심도 징역 23년",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/016/0002400903"
+    },
+    {
+      "id": "ISS-75",
+      "kind": "이슈",
+      "date": "2024-12-10",
+      "title": "마약 공무원 공직사회 경각심",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-79",
+      "kind": "보도",
+      "date": "2024-12-10",
+      "title": "마약 범죄 공직 퇴출 ‘원샷’ ‘공무원 징계령 시행규칙’ 개정",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/009/0005411164"
+    },
+    {
+      "id": "MEET-76",
+      "kind": "회의록",
+      "date": "2024-12-03",
+      "title": "제22대국회 제418회 (정기회) 제2차 보건복지위원회(법안심사제1소위원회)(2024.12.03.)",
+      "count": 3,
+      "url": ""
+    },
+    {
+      "id": "ISS-81",
+      "kind": "이슈",
+      "date": "2024-11-27",
+      "title": "텔레그램 마약 유통",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-82",
+      "kind": "이슈",
+      "date": "2024-11-24",
+      "title": "마약 의사",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-83",
+      "kind": "이슈",
+      "date": "2024-11-20",
+      "title": "프로포폴 전문 병원",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-80",
+      "kind": "의안",
+      "date": "2024-11-14",
+      "title": "마약류 관리에 관한 법률 일부개정법률안",
+      "count": 2,
+      "url": ""
+    },
+    {
+      "id": "MEET-85",
+      "kind": "회의록",
+      "date": "2024-11-14",
+      "title": "제22대국회 제418회 (정기회) 제9차 보건복지위원회(2024.11.14.)",
+      "count": 5,
+      "url": ""
+    },
+    {
+      "id": "ISS-84",
+      "kind": "이슈",
+      "date": "2024-11-05",
+      "title": "프로포폴 불법 처방",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-87",
+      "kind": "이슈",
+      "date": "2024-10-29",
+      "title": "마약류 밀반입",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MODI-90",
+      "kind": "개정",
+      "date": "2024-10-22",
+      "title": "마약류 관리에 관한 법률 개정",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "PROD-93",
+      "kind": "공포",
+      "date": "2024-10-22",
+      "title": "마약류 관리에 관한 법률 공포",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-88",
+      "kind": "이슈",
+      "date": "2024-10-17",
+      "title": "케타민 유통",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-91",
+      "kind": "보도",
+      "date": "2024-10-17",
+      "title": "케타민을 국내에 유통하려던 피의자와 공범 등 14명을 검거",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/009/0005380737"
+    },
+    {
+      "id": "NEWS-92",
+      "kind": "보도",
+      "date": "2024-10-09",
+      "title": "‘대학 마약동아리’ 회장, 불법 촬영물 협박·별도 마약 혐의로 징역형",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/032/0003325203"
+    },
+    {
+      "id": "BILL-86",
+      "kind": "의안",
+      "date": "2024-10-07",
+      "title": "마약류 관리에 관한 법률 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-89",
+      "kind": "이슈",
+      "date": "2024-10-02",
+      "title": "다크웹 마약 판매",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-95",
+      "kind": "이슈",
+      "date": "2024-09-22",
+      "title": "필로폰 판매",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-94",
+      "kind": "의안",
+      "date": "2024-09-06",
+      "title": "마약류 관리에 관한 법률 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-98",
+      "kind": "이슈",
+      "date": "2024-08-29",
+      "title": "해외직구 사탕 국내 반입 차단",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-99",
+      "kind": "이슈",
+      "date": "2024-08-27",
+      "title": "대마 젤리 대학원생",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "APOS-96",
+      "kind": "세미나",
+      "date": "2024-08-26",
+      "title": "우리 사회를 위협하는 마약 : 수사부터 중독 사후관리 방안은? : 전문가 간담회",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-100",
+      "kind": "이슈",
+      "date": "2024-08-12",
+      "title": "마약류 의료쇼핑 단속",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-97",
+      "kind": "의안",
+      "date": "2024-08-06",
+      "title": "마약류 관리에 관한 법률 일부개정법률안",
+      "count": 2,
+      "url": ""
+    },
+    {
+      "id": "ISS-101",
+      "kind": "이슈",
+      "date": "2024-08-05",
+      "title": "마약 동아리",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-102",
+      "kind": "의안",
+      "date": "2024-07-08",
+      "title": "마약류 관리에 관한 법률 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-104",
+      "kind": "의안",
+      "date": "2024-06-26",
+      "title": "마약류 관리에 관한 법률 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-105",
+      "kind": "이슈",
+      "date": "2024-06-24",
+      "title": "포항 양귀비 불법 재배",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ACT-103",
+      "kind": "시행",
+      "date": "2024-06-14",
+      "title": "마약류 관리에 관한 법률 실행",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-106",
+      "kind": "이슈",
+      "date": "2024-05-21",
+      "title": "10대 필로폰 투약 남성",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-107",
+      "kind": "이슈",
+      "date": "2024-05-18",
+      "title": "수면제 대리처방",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-108",
+      "kind": "이슈",
+      "date": "2024-04-26",
+      "title": "주택 앞마당 양귀비 재배",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-109",
+      "kind": "이슈",
+      "date": "2024-04-25",
+      "title": "텔레그램 마약방도 범죄집단",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-110",
+      "kind": "이슈",
+      "date": "2024-04-08",
+      "title": "용산 집단 마약",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-111",
+      "kind": "이슈",
+      "date": "2024-03-27",
+      "title": "마약 사진 무죄",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-112",
+      "kind": "이슈",
+      "date": "2024-03-16",
+      "title": "마약 조직원",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-113",
+      "kind": "이슈",
+      "date": "2024-03-12",
+      "title": "마약 투약 작곡가",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ACT-114",
+      "kind": "시행",
+      "date": "2024-02-17",
+      "title": "마약류 관리에 관한 법률 실행",
+      "count": 2,
+      "url": ""
+    },
+    {
+      "id": "PROD-115",
+      "kind": "공포",
+      "date": "2024-02-06",
+      "title": "마약류 관리에 관한 법률 공포",
+      "count": 3,
+      "url": ""
+    },
+    {
+      "id": "PROD-117",
+      "kind": "공포",
+      "date": "2024-01-09",
+      "title": "마약류 관리에 관한 법률 공포",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-116",
+      "kind": "의안",
+      "date": "2024-01-08",
+      "title": "군인의 지위 및 복무에 관한 기본법 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-118",
+      "kind": "의안",
+      "date": "2023-12-07",
+      "title": "병역법 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-119",
+      "kind": "회의록",
+      "date": "2023-11-22",
+      "title": "제21대국회 제410회 (정기회) 제2차 보건복지위원회(제1법안심사소위원회)(2023.11.22.)",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-120",
+      "kind": "보도",
+      "date": "2023-09-08",
+      "title": "경찰관 추락사 집단 마약 파티 의혹",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/586/0000064180"
+    },
+    {
+      "id": "NEWS-123",
+      "kind": "보도",
+      "date": "2023-08-30",
+      "title": "클럽 마약 케타민 떴다방 수법 밀수",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/025/0003304217"
+    },
+    {
+      "id": "ISS-121",
+      "kind": "이슈",
+      "date": "2023-08-16",
+      "title": "향정신성의약품",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-124",
+      "kind": "보도",
+      "date": "2023-08-16",
+      "title": "롤스로이스남 마약류 상습 투약 의혹 불법처방 의사 고발",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/022/0003845665"
+    },
+    {
+      "id": "MODI-122",
+      "kind": "개정",
+      "date": "2023-08-08",
+      "title": "마약류 관리에 관한 법률 개정",
+      "count": 2,
+      "url": ""
+    },
+    {
+      "id": "PROD-125",
+      "kind": "공포",
+      "date": "2023-08-08",
+      "title": "마약류 관리에 관한 법률 공포",
+      "count": 2,
+      "url": ""
+    },
+    {
+      "id": "ISS-127",
+      "kind": "이슈",
+      "date": "2023-07-28",
+      "title": "마약류 식욕억제제",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-130",
+      "kind": "보도",
+      "date": "2023-07-28",
+      "title": "10대 여학생 마약류 식욕억제제 나비약 SNS 불법거래",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/023/0003778544"
+    },
+    {
+      "id": "ISS-128",
+      "kind": "이슈",
+      "date": "2023-07-22",
+      "title": "마약 치료",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-126",
+      "kind": "의안",
+      "date": "2023-07-17",
+      "title": "마약류 관리에 관한 법률 일부개정법률안",
+      "count": 2,
+      "url": ""
+    },
+    {
+      "id": "MEET-129",
+      "kind": "회의록",
+      "date": "2023-07-17",
+      "title": "제21대국회 제408회 제1차 법제사법위원회",
+      "count": 3,
+      "url": ""
+    },
+    {
+      "id": "NEWS-131",
+      "kind": "보도",
+      "date": "2023-07-16",
+      "title": "청소년 마약 사범 급증",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/001/0014069708"
+    },
+    {
+      "id": "BILL-133",
+      "kind": "의안",
+      "date": "2023-06-30",
+      "title": "식품위생법 일부개정법률안",
+      "count": 2,
+      "url": ""
+    },
+    {
+      "id": "MEET-134",
+      "kind": "회의록",
+      "date": "2023-06-28",
+      "title": "제21대국회 제407회 (임시회) 제1차 보건복지위원회(제2법안심사소위원회)(2023.06.28.)",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "APOS-132",
+      "kind": "세미나",
+      "date": "2023-06-19",
+      "title": "청소년 마약 근절 및 예방 대책 토론회",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MODI-135",
+      "kind": "개정",
+      "date": "2023-06-13",
+      "title": "마약류 관리에 관한 법률 개정",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "PROD-136",
+      "kind": "공포",
+      "date": "2023-06-13",
+      "title": "마약류 관리에 관한 법률 공포",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-138",
+      "kind": "회의록",
+      "date": "2023-05-25",
+      "title": "제21대국회 제406회 제1차 국회본회의",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-137",
+      "kind": "의안",
+      "date": "2023-05-18",
+      "title": "마약류 관리에 관한 법률 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-139",
+      "kind": "보도",
+      "date": "2023-05-05",
+      "title": "외국인 유입 마약 노출 위험 증가",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/138/0002147886?rc=N&ntype=RANKING"
+    },
+    {
+      "id": "MEET-140",
+      "kind": "회의록",
+      "date": "2023-04-24",
+      "title": "제21대국회 제405회 제1차 보건복지위원회",
+      "count": 2,
+      "url": ""
+    },
+    {
+      "id": "MEET-143",
+      "kind": "회의록",
+      "date": "2023-03-21",
+      "title": "제21대국회 제404회 제1차 제1법안심사소위원회",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-141",
+      "kind": "의안",
+      "date": "2023-03-17",
+      "title": "마약류 관리에 관한 법률 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-142",
+      "kind": "이슈",
+      "date": "2023-03-07",
+      "title": "청소년 마약",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-144",
+      "kind": "보도",
+      "date": "2023-03-07",
+      "title": "필로폰 텔레그램 구입 투약 중학생",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/449/0000245196?rc=N&ntype=RANKING"
+    },
+    {
+      "id": "MEET-146",
+      "kind": "회의록",
+      "date": "2023-02-09",
+      "title": "제21대국회 제403회 제1차 보건복지위원회",
+      "count": 2,
+      "url": ""
+    },
+    {
+      "id": "BILL-145",
+      "kind": "의안",
+      "date": "2023-02-02",
+      "title": "마약류 관리에 관한 법률 일부개정법률안",
+      "count": 3,
+      "url": ""
+    },
+    {
+      "id": "MEET-148",
+      "kind": "회의록",
+      "date": "2022-12-06",
+      "title": "제21대국회 제400회 (정기회) 제1차 보건복지위원회(제2법안심사소위원회)(2022.12.06.)",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-147",
+      "kind": "의안",
+      "date": "2022-12-02",
+      "title": "마약류 관리에 관한 법률 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-149",
+      "kind": "의안",
+      "date": "2022-11-29",
+      "title": "마약류 관리에 관한 법률 일부개정법률안",
+      "count": 2,
+      "url": ""
+    },
+    {
+      "id": "ISS-150",
+      "kind": "이슈",
+      "date": "2022-11-26",
+      "title": "마약 주의보",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-151",
+      "kind": "이슈",
+      "date": "2022-11-19",
+      "title": "마약 중독",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-152",
+      "kind": "보도",
+      "date": "2022-11-08",
+      "title": "식약처 마약 예방교육 중독자 치료 재활",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/021/0002540120?rc=N&ntype=RANKING"
+    },
+    {
+      "id": "BILL-153",
+      "kind": "의안",
+      "date": "2022-10-21",
+      "title": "식품 등의 표시ㆍ광고에 관한 법률 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-154",
+      "kind": "이슈",
+      "date": "2022-10-21",
+      "title": "학생 마약사범",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-155",
+      "kind": "이슈",
+      "date": "2022-10-10",
+      "title": "마약중독자",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-156",
+      "kind": "보도",
+      "date": "2022-10-10",
+      "title": "마약사범 증가세 불구 치료 시설 및 인력 시스템 부족",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/009/0005028141?rc=N&ntype=RANKING"
+    },
+    {
+      "id": "APOS-157",
+      "kind": "세미나",
+      "date": "2022-09-30",
+      "title": "초국가적 안보 위협! 핵보다 무서운 '마약' : 마약류 퇴치 교육 지원에 관한 입법 토론회",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-159",
+      "kind": "보도",
+      "date": "2022-09-09",
+      "title": "2030 마약 범죄 비대면 거래 방식",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/629/0000171766?rc=N&ntype=RANKING"
+    },
+    {
+      "id": "BILL-158",
+      "kind": "의안",
+      "date": "2022-09-08",
+      "title": "마약류 관리에 관한 법률 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-160",
+      "kind": "의안",
+      "date": "2021-12-30",
+      "title": "마약류 관리에 관한 법률 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-161",
+      "kind": "의안",
+      "date": "2021-08-12",
+      "title": "마약류 관리에 관한 법률 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-162",
+      "kind": "의안",
+      "date": "2021-07-01",
+      "title": "마약류 관리에 관한 법률 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-163",
+      "kind": "이슈",
+      "date": "2021-05-20",
+      "title": "마약성 진통제",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-164",
+      "kind": "보도",
+      "date": "2021-05-20",
+      "title": "10대 청소년 마약성 진통제 패치 판매 및 투약",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/079/0003506078"
+    },
+    {
+      "id": "ISS-165",
+      "kind": "이슈",
+      "date": "2021-03-23",
+      "title": "마약성 진통제 판매",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-166",
+      "kind": "이슈",
+      "date": "2020-12-17",
+      "title": "향정신성의약품 밀반입 혐의",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-167",
+      "kind": "의안",
+      "date": "2020-08-06",
+      "title": "마약류 관리에 관한 법률 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-168",
+      "kind": "이슈",
+      "date": "2019-06-22",
+      "title": "마약 신고 출동",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MAKE-169",
+      "kind": "제정",
+      "date": "2000-01-12",
+      "title": "마약류 관리에 관한 법률 제정",
+      "count": 1,
+      "url": ""
+    }
+  ],
+  "records": [
+    {
+      "number": "2217920",
+      "title": "마약류 관리에 관한 법률 일부개정법률안(대안)",
+      "proposer": "보건복지위원장",
+      "status": "공포",
+      "date": "2026-03-30",
+      "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2B6N0T3A1W2N2F0Z2G7P1A3R1B0K5"
+    }
+  ],
+  "bills": [
+    {
+      "id": "PRC_A2B6N0T3A1W2N2F0Z2G7P1A3R1B0K5",
+      "number": "2217920",
+      "title": "마약류 관리에 관한 법률 일부개정법률안(대안)(보건복지위원장)",
+      "proposed": "2026-03-30",
+      "decided": "2026-04-23",
+      "result": "원안가결",
+      "committee": "보건복지위원회",
+      "promulgated": "2026-05-26",
+      "people": [],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2B6N0T3A1W2N2F0Z2G7P1A3R1B0K5",
+      "hasAlternatives": true,
+      "text": "대안의 제안이유\r\n  비대면 점조직 형태로 운영되는 마약 유통 조직 특성상, 조직의 상선(총책)을 수사하려면 수사관이 조직 내부에 직접 잠입해야 하지만 신분비공개수사 및 신분위장수사의 법적 근거가 미비하여 적극적으로 수사를 진행하기 어려운 실정임. 이에 마약류범죄에 대하여 신분비공개수사와 신분위장수사를 도입하여 마약류범죄에 대한 대응을 강화함.\r\n  한편, 우리나라는 마약성 물질에 대한 신속한 단속을 위하여 임시마약류 지정 제도를 도입하였으나, 최근 신종 물질의 등장 속도가 점점 빨라져 현행 임시마약류 지정 제도의 추가적인 개선이 필요한 상황임. 이에 임시마약류 지정 절차를 보다 간소화하는 등 임시마약류 지정 제도 전반을 개선함.\r\n  아울러, 산업계 등에서 물품의 제조나 첨가제로서 사용하는 물질이 마약류에 해당하는지 등에 대하여 확인하고자 식품의약품안전처로 질의하는 경우가 증가하여 행정적 부담이 가중되고 있음. 이에 마약류등 해당 여부에 관한 확인의 근거 규정을 신설하고 수수료를 납부하도록 하여 수익자부담원칙을 명확히 함.\r\n  또한, 이 법에 따른 승인에 대하여도 허가ㆍ지정과 마찬가지로 수수료를 내도록 함으로써 수익자부담원칙을 명확히 함. \r\n\r\n대안의 주요내용\r\n  가. 신분비공개수사 및 신분위장수사 등 마약류범죄의 수사 특례에 관한 사항을 규정함(안 제4조의2부터 제4조의10까지 신설).\r\n  나. 임시마약류 지정 예고 기간을 1개월에서 14일로 단축하고, 지정기간 및 재지정의 근거를 삭제하며, 식품의약품안전처장이 임시마약류 지정을 직권으로 해제할 수 있는 근거를 신설하고, 임시마약류 지정 공고 사항의 변경 절차를 신설함(안 제5조의2). \r\n  다. 물질등을 취급하려는 자 등이 물질등의 마약류ㆍ임시마약류ㆍ예고임시마약류 해당 여부를 판단하기 위하여 필요한 경우 식품의약품안전처장에게 확인을 요청할 수 있도록 함(안 제6조의2 신설). \r\n  라. 이 법에 따른 승인 및 마약류등 해당 여부 확인을 요청하는 자에 대하여 수수료를 내도록 함(안 제55조).",
+      "fetchedAt": "2026-10-08T06:11:45.436Z",
+      "mode": "live",
+      "relation": "최근 연결 의안"
+    },
+    {
+      "id": "PRC_S2T5B0B5A1Y3Z1X1X4T2U3S0T7R5Q6",
+      "number": "2213776",
+      "title": "마약류 관리에 관한 법률 일부개정법률안(한지아의원 등 10인)",
+      "proposed": "2025-10-29",
+      "decided": "2026-04-23",
+      "result": "대안반영폐기",
+      "committee": "보건복지위원회",
+      "promulgated": "",
+      "people": [
+        {
+          "id": "22nd:HANZEEA",
+          "name": "한지아",
+          "profileUrl": "https://www.assembly.go.kr/members/22nd/HANZEEA",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/3748b905b7394465962c8676cd0813dd.png",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2T5B0B5A1Y3Z1X1X4T2U3S0T7R5Q6",
+      "hasAlternatives": true,
+      "text": "제안이유 및 주요내용\r\n\r\n  우리나라는 마약성 물질에 대한 신속한 단속을 위하여 2012년에 임시마약류 지정 제도를 도입하였으나, 최근 신종 물질의 등장 속도가 점점 빨라져 현행 임시마약류 지정 제도의 추가적인 개선이 필요한 상황임.\r\n  이에 임시마약류 지정 절차를 보다 간소화하고, 임시마약류의 지정 유효기간을 3년으로 한정하여 반복적으로 재지정하는 형식적 절차를 지속적인 검토 체계로 전환하는 등 임시마약류 지정 제도 전반을 개선하려는 것임(안 제5조의2).",
+      "fetchedAt": "2026-10-08T06:11:45.963Z",
+      "mode": "live",
+      "relation": "대안에 연결된 원안"
+    },
+    {
+      "id": "PRC_P2N5O0M2L1L2H1H8G1H2F0F3E0E9M7",
+      "number": "2212267",
+      "title": "마약류 관리에 관한 법률 일부개정법률안(최보윤의원 등 10인)",
+      "proposed": "2025-08-20",
+      "decided": "2026-04-23",
+      "result": "대안반영폐기",
+      "committee": "보건복지위원회",
+      "promulgated": "",
+      "people": [
+        {
+          "id": "22nd:CHOIBOYUN",
+          "name": "최보윤",
+          "profileUrl": "https://www.assembly.go.kr/members/22nd/CHOIBOYUN",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/084ad27bfd414d249c73484f8a1abe40.png",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2N5O0M2L1L2H1H8G1H2F0F3E0E9M7",
+      "hasAlternatives": true,
+      "text": "제안이유 및 주요내용\r\n\r\n  현행법령에 따라 지정된 마약류 또는 임시마약류는 약 500여종에 이르고, 매년 새로운 물질이 발견되어 그 수는 계속 증가하고 있음. 이에 따라 산업계 등에서도 물품의 제조나 첨가제로서 사용하는 물질이 마약류에 해당하는지 등에 대하여 확인하고자 식품의약품안전처로 질의하는 경우가 증가하고 있음.\r\n  이에 따라 식품의약품안전처는 해당 물질에 대한 의존성 유발, 신체적ㆍ정신적 위해 가능성이 있는지 여부를 규명하고 그 결과를 질의자에게 통보하고 있음. 이 과정에서 식품의약품안전처는 상당한 비용을 지출함으로써 재정적 어려움을 겪고 있는바, 이 비용을 수익자부담원칙에 따라 질의하는 자에게 부담하도록 할 필요가 있음.\r\n  또한, 현재 단순하고 반복적인 민원업무에 대해서도 업무의 위탁규정이 없어 식품의약품안전처에서 이를 모두 처리하고 있는 가운데, 최근 마약류 분류 등과 같은 민원이 급증하는 추세에 따라 식품의약품안전처의 업무부담이 가중되고 있는 상황임.\r\n  이에 식품의약품안전처의 마약류 여부나 분류 등에 대한 답변을 위한 심사와 관련된 신청 및 결과 통지 절차를 명확히 규정하고, 수익자부담원칙에 따라 심사 및 승인에 드는 비용을 질의자가 부담하도록 하며, 단순반복적 민원 업무의 일부를 관련 단체나 전문기관에 위탁할 수 있는 근거를 마련하여 행정의 효율성을 높이고자 하는 것임(안 제6조의3 신설 등).",
+      "fetchedAt": "2026-10-08T06:11:46.076Z",
+      "mode": "live",
+      "relation": "대안에 연결된 원안"
+    },
+    {
+      "id": "PRC_I2J4H0I8G0O5O1N7N4M2M1K4H1H2F8",
+      "number": "2204577",
+      "title": "마약류 관리에 관한 법률 일부개정법률안(박준태의원 등 13인)",
+      "proposed": "2024-10-07",
+      "decided": "2026-04-23",
+      "result": "대안반영폐기",
+      "committee": "보건복지위원회",
+      "promulgated": "",
+      "people": [
+        {
+          "id": "22nd:PARKJUNTAE",
+          "name": "박준태",
+          "profileUrl": "https://www.assembly.go.kr/members/22nd/PARKJUNTAE",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/689958442da64be4b0a1aaeb2003038a.png",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2J4H0I8G0O5O1N7N4M2M1K4H1H2F8",
+      "hasAlternatives": true,
+      "text": "제안이유 및 주요내용\r\n\r\n  현행 「아동ㆍ청소년의 성보호에 관한 법률」에 따르면 사법경찰관리로 하여금 아동ㆍ청소년대상 디지털성범죄에 한정하여 신분을 비공개하거나 위장하여 범죄행위 등에 접근하거나 관여하는 수사하는 이른바 신분비공개수사와 신분위장수사의 특례를 법제화하고 있음.\r\n  한편 미국, 독일 등의 국가에서는 마약류범죄를 수사하기 위하여 위장수사 제도를 도입하고 있고, 위장수사를 통하여 마약류, 벌법무기 등의 유통채널이었던 다크넷을 검거한 사례가 있는 등 마약류범죄를 사전에 차단하기 위하여 신분비공개수사와 신분위장수사를 도입할 필요가 있다는 의견이 있음.\r\n  이에 현재 아동청소년 대상 디지털 성범죄에 한정하여 도입된 신분비공개수사와 신분위장수사의 특례를 경찰, 해양경찰, 검찰 등의 마약범죄수사에 확대하여 적용하도록 하고, 신분위장수사, 긴급 신분위장수사의 집행에 관한 통지 절차 등을 추가하는 등 수사에 의한 기본권 침해에 상응하는 기본권 보호 규정을 마련하고자 함(안 제4조의2부터 제4조의9까지 신설 등).",
+      "fetchedAt": "2026-10-08T06:11:45.954Z",
+      "mode": "live",
+      "relation": "대안에 연결된 원안"
+    },
+    {
+      "id": "PRC_D2D4B0C8K3L0J1J6I3G6H2O4P7O7O6",
+      "number": "2203766",
+      "title": "마약류 관리에 관한 법률 일부개정법률안(백혜련의원 등 10인)",
+      "proposed": "2024-09-06",
+      "decided": "2026-04-23",
+      "result": "대안반영폐기",
+      "committee": "보건복지위원회",
+      "promulgated": "",
+      "people": [
+        {
+          "id": "22nd:BACKHYERYUN",
+          "name": "백혜련",
+          "profileUrl": "https://www.assembly.go.kr/members/22nd/BACKHYERYUN",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/968e99ee8f8b4b6e9d4ce7eb16a92864.jpg",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2D4B0C8K3L0J1J6I3G6H2O4P7O7O6",
+      "hasAlternatives": true,
+      "text": "제안이유 및 주요내용\r\n\r\n  대법원은 위장수사와 관련하여 이를 범의유발형 수사와 기회제공형 수사로 구분하면서, 기회제공형의 경우에는 함정수사라고 할 수 없다고 판시하였음. 이에 실무적으로는 판례를 바탕으로 위장수사를 하고 있으나, 판례는 범죄자의 범의 여부에 따라 위법성을 판단하고 있어 실무에서 위장수사의 허용요건과 범위를 명확하게 하기 어렵고 수사방식의 적법성에 대한 다툼의 여지가 상존함.\r\n  비대면 점조직 형태로 운영되는 마약 유통 조직 특성상, 조직의 상선(총책)을 수사하려면 수사관이 조직 내부에 직접 잠입해야 하지만 위장수사의 허용요건과 범위가 명확하지 않다 보니 적극적으로 수사를 진행하기 어려운 실정임.\r\n  이에 경찰, 해양경찰, 검찰이 위장수사 및 잠입수사를 할 수 있는 근거를 법에 명시적으로 규정하고자 하는 것임(안 제4조의2부터 제4조의9까지 신설).",
+      "fetchedAt": "2026-10-08T06:11:46.302Z",
+      "mode": "live",
+      "relation": "대안에 연결된 원안"
+    },
+    {
+      "id": "PRC_B2Z4B0Z8Z0Y7G1G4F5D5E3C2D3Y1X1",
+      "number": "2202912",
+      "title": "마약류 관리에 관한 법률 일부개정법률안(한지아의원 등 11인)",
+      "proposed": "2024-08-16",
+      "decided": "2026-04-23",
+      "result": "대안반영폐기",
+      "committee": "보건복지위원회",
+      "promulgated": "",
+      "people": [
+        {
+          "id": "22nd:HANZEEA",
+          "name": "한지아",
+          "profileUrl": "https://www.assembly.go.kr/members/22nd/HANZEEA",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/3748b905b7394465962c8676cd0813dd.png",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2Z4B0Z8Z0Y7G1G4F5D5E3C2D3Y1X1",
+      "hasAlternatives": true,
+      "text": "제안이유 및 주요내용\r\n\r\n  「아동ㆍ청소년의 성보호에 관한 법률」에 따르면 사법경찰관리는 아동ㆍ청소년대상 디지털성범죄에 대하여 신분비공개수사와 신분위장수사를 하고 있지만, 「마약류 관리에 관한 법률」에는 이와 관련된 규정은 없음.\r\n  미국, 독일 등의 국가에서는 마약류범죄를 수사하기 위하여 위장수사제도를 도입하고 있고, 위장수사를 통하여 마약류, 불법무기 등의 유통채널이었던 다크넷(폐쇄형 사설 개인 간 네트워크)을 검거한 사례가 있는 등 마약류범죄를 사전에 차단하기 위하여 신분비공개수사와 신분위장수사를 도입할 필요가 있다는 의견이 있음.\r\n  이에 마약류범죄에 대하여 신분비공개수사와 신분위장수사를 도입하여 마약류범죄를 사전에 차단하여 마약류범죄자가 양산되는 것을 방지하려는 것임(안 제4조의2부터 제4조의9까지 신설 등).",
+      "fetchedAt": "2026-10-08T06:11:46.421Z",
+      "mode": "live",
+      "relation": "대안에 연결된 원안"
+    }
+  ],
+  "people": [
+    {
+      "id": "22nd:HANZEEA",
+      "name": "한지아",
+      "profileUrl": "https://www.assembly.go.kr/members/22nd/HANZEEA",
+      "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/3748b905b7394465962c8676cd0813dd.png",
+      "role": "대표발의",
+      "billIds": [
+        "PRC_S2T5B0B5A1Y3Z1X1X4T2U3S0T7R5Q6",
+        "PRC_B2Z4B0Z8Z0Y7G1G4F5D5E3C2D3Y1X1"
+      ]
+    },
+    {
+      "id": "22nd:CHOIBOYUN",
+      "name": "최보윤",
+      "profileUrl": "https://www.assembly.go.kr/members/22nd/CHOIBOYUN",
+      "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/084ad27bfd414d249c73484f8a1abe40.png",
+      "role": "대표발의",
+      "billIds": [
+        "PRC_P2N5O0M2L1L2H1H8G1H2F0F3E0E9M7"
+      ]
+    },
+    {
+      "id": "22nd:PARKJUNTAE",
+      "name": "박준태",
+      "profileUrl": "https://www.assembly.go.kr/members/22nd/PARKJUNTAE",
+      "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/689958442da64be4b0a1aaeb2003038a.png",
+      "role": "대표발의",
+      "billIds": [
+        "PRC_I2J4H0I8G0O5O1N7N4M2M1K4H1H2F8"
+      ]
+    },
+    {
+      "id": "22nd:BACKHYERYUN",
+      "name": "백혜련",
+      "profileUrl": "https://www.assembly.go.kr/members/22nd/BACKHYERYUN",
+      "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/968e99ee8f8b4b6e9d4ce7eb16a92864.jpg",
+      "role": "대표발의",
+      "billIds": [
+        "PRC_D2D4B0C8K3L0J1J6I3G6H2O4P7O7O6"
+      ]
+    }
+  ],
+  "alternativeTotal": 5,
+  "scope": "아르고스가 최근 연결한 의안 1건과 그 대안에 연결된 원안(최대 20건)",
+  "warnings": [],
+  "fetchedAt": "2026-10-08T06:11:46.425Z",
+  "mode": "live"
+}

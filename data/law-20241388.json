@@ -1,0 +1,182 @@
+{
+  "law": {
+    "id": "20241388",
+    "parentId": "00000000",
+    "rank": 20,
+    "name": "건축기본법",
+    "issue": "사업담당 공공건축가",
+    "summary": "건축기본법과 관련한 사업담당 공공건축가 이슈는 기존 총괄건축가와 공공건축가 외에 ‘사업담당 공공건축가’를 신설해 민간전문가별 역할을 명확히 하고, 개별 공공건축사업의 전 과정에 걸쳐 자문·조정 기능을 강화하려는 내용입니다. 정부는 사업의 규모와 성격에 맞게 설계공모 방식을 다양화하는 한편, 사업담당 공공건축가가 개별 사업의 전 과정에 참여해 당초 계획이 일관되게 유지될 수 있도록 자문하고 관계자 간 의견을 조정하는 방안을 검토하고 있습니다.",
+    "updated": "2026-09-30",
+    "sourceUrl": "https://argos.nanet.go.kr/main/fusionanalysis/lawIssueGuest.do?lawKwdId=20241388&lawKwdPid=00000000&titleNm=%EA%B1%B4%EC%B6%95%EA%B8%B0%EB%B3%B8%EB%B2%95"
+  },
+  "fullName": "건축기본법",
+  "enacted": "2007-12-21",
+  "timeline": [
+    {
+      "id": "ISS-0",
+      "kind": "이슈",
+      "date": "2026-09-29",
+      "title": "사업담당 공공건축가",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-1",
+      "kind": "이슈",
+      "date": "2026-03-10",
+      "title": "지정문화유산 주변 건축행위",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-2",
+      "kind": "이슈",
+      "date": "2025-07-28",
+      "title": "K-건축문화 선도",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ACT-3",
+      "kind": "시행",
+      "date": "2021-10-28",
+      "title": "건축기본법 실행",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "PROD-4",
+      "kind": "공포",
+      "date": "2021-07-27",
+      "title": "건축기본법 공포",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-5",
+      "kind": "회의록",
+      "date": "2021-06-18",
+      "title": "제21대국회 제388회 (임시회) 제1차 국토교통위원회",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-6",
+      "kind": "회의록",
+      "date": "2021-04-28",
+      "title": "제21대국회 제386회 (임시회) 제1차 국토교통위원회(국토법안심사소위원회)",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-7",
+      "kind": "의안",
+      "date": "2020-11-05",
+      "title": "건축기본법 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ACT-8",
+      "kind": "시행",
+      "date": "2016-02-12",
+      "title": "건축기본법 실행",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "PROD-9",
+      "kind": "공포",
+      "date": "2015-08-11",
+      "title": "건축기본법 공포",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-10",
+      "kind": "회의록",
+      "date": "2015-06-17",
+      "title": "제19대국회 제334회 (임시회) 제1차 국토교통위원회(국토법안심사소위원회)",
+      "count": 2,
+      "url": ""
+    },
+    {
+      "id": "MEET-11",
+      "kind": "회의록",
+      "date": "2015-04-20",
+      "title": "제19대국회 제332회 (임시회) 제1차 국토교통위원회",
+      "count": 2,
+      "url": ""
+    },
+    {
+      "id": "BILL-12",
+      "kind": "의안",
+      "date": "2014-10-22",
+      "title": "건축기본법 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MAKE-13",
+      "kind": "제정",
+      "date": "2007-12-21",
+      "title": "건축기본법 제정",
+      "count": 1,
+      "url": ""
+    }
+  ],
+  "records": [
+    {
+      "number": "2105005",
+      "title": "건축기본법 일부개정법률안",
+      "proposer": "조응천",
+      "status": "공포",
+      "date": "2020-11-05",
+      "url": "https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_O2R0Z1Q1J0Q5X1G7P4X0G5Y9W1Y3G2"
+    }
+  ],
+  "bills": [
+    {
+      "id": "PRC_O2R0Z1Q1J0Q5X1G7P4X0G5Y9W1Y3G2",
+      "number": "2105005",
+      "title": "건축기본법 일부개정법률안(조응천의원 등 10인)",
+      "proposed": "2020-11-05",
+      "decided": "2021-06-29",
+      "result": "원안가결",
+      "committee": "국토교통위원회",
+      "promulgated": "2021-07-27",
+      "people": [
+        {
+          "id": "21st:CHOEUNGCHEON",
+          "name": "조응천",
+          "profileUrl": "https://www.assembly.go.kr/members/21st/CHOEUNGCHEON",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/CDL93608.jpg",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2R0Z1Q1J0Q5X1G7P4X0G5Y9W1Y3G2",
+      "hasAlternatives": false,
+      "text": "제안이유 및 주요내용\r\n\r\n  현행법은 국토교통부장관이 한국건축규정을 공고하고, 이를 「건축서비스산업 진흥법」 제8조에 따른 건축서비스산업 정보체계에 반영하여 국민에게 제공하도록 규정하고 있습니다.\r\n  한국건축규정은 개별법령에 산재되어 있는 건축물의 설계, 시공, 공사감리 및 유지ㆍ관리 등 건축물 관련 규정을 건축관계자에게 종합적으로 안내하고 합리적으로 운용하기 위한 것입니다.\r\n  그런데 이를 반영하는 건축서비스산업 정보체계는 건축서비스산업 관련 정보 및 자료 등을 수집ㆍ관리하기 위한 것으로써, 그 목적과 성격이 달라 분리가 필요한 실정입니다.\r\n  이에 한국건축규정의 건축서비스산업 정보체계를 통한 제공의무 내용을 삭제하는 한편, 국토교통부장관으로 하여금 한국건축규정 정보체계를 구축ㆍ운영하도록 규정하고, 효율적인 관리를 위해 위탁 운영할 수 있도록 하여 한국건축규정 정보체계가 실효성 있게 운영되도록 하고자 합니다(안 제25조).",
+      "fetchedAt": "2026-10-08T06:12:18.281Z",
+      "mode": "live",
+      "relation": "최근 연결 의안"
+    }
+  ],
+  "people": [
+    {
+      "id": "21st:CHOEUNGCHEON",
+      "name": "조응천",
+      "profileUrl": "https://www.assembly.go.kr/members/21st/CHOEUNGCHEON",
+      "image": "https://www.assembly.go.kr/static/portal/img/openassm/CDL93608.jpg",
+      "role": "대표발의",
+      "billIds": [
+        "PRC_O2R0Z1Q1J0Q5X1G7P4X0G5Y9W1Y3G2"
+      ]
+    }
+  ],
+  "alternativeTotal": 0,
+  "scope": "아르고스가 최근 연결한 의안 1건과 그 대안에 연결된 원안(최대 20건)",
+  "warnings": [],
+  "fetchedAt": "2026-10-08T06:12:18.292Z",
+  "mode": "live"
+}

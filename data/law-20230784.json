@@ -1,0 +1,904 @@
+{
+  "law": {
+    "id": "20230784",
+    "parentId": "00000000",
+    "rank": 17,
+    "name": "대부업법",
+    "issue": "파파라치 제도",
+    "summary": "대부업법과 관련한 대부광고 파파라치 제도는 온라인 불법 대부광고를 신고한 시민에게 포상금을 지급하는 제도입니다. 정부는 대부협회의 사전심의를 받지 않았거나 법을 위반한 광고를 신고한 경우 건당 5천 원, 해당 광고가 실제 불법사금융 영업으로 이어진 사례를 신고한 경우 건당 50만 원을 지급하는 방안을 검토하고 있습니다. 포상금 지급 기준과 금액은 향후 관련 법령 개정에서 확정될 예정입니다.",
+    "updated": "2026-10-03",
+    "sourceUrl": "https://argos.nanet.go.kr/main/fusionanalysis/lawIssueGuest.do?lawKwdId=20230784&lawKwdPid=00000000&titleNm=%EB%8C%80%EB%B6%80%EC%97%85%EB%B2%95"
+  },
+  "fullName": "대부업 등의 등록 및 금융이용자 보호에 관한 법률",
+  "enacted": "2002-08-26",
+  "timeline": [
+    {
+      "id": "ISS-0",
+      "kind": "이슈",
+      "date": "2026-10-02",
+      "title": "대부광고 파파라치 제도",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-1",
+      "kind": "이슈",
+      "date": "2025-11-23",
+      "title": "가맹점 고금리 불법 대부",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-2",
+      "kind": "이슈",
+      "date": "2025-06-11",
+      "title": "사채업자 보석 허가",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-3",
+      "kind": "이슈",
+      "date": "2025-03-24",
+      "title": "한국투자증권 임직원 불구속 기소",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-5",
+      "kind": "이슈",
+      "date": "2025-02-21",
+      "title": "사채업자 혐의 인정",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-6",
+      "kind": "보도",
+      "date": "2025-02-21",
+      "title": "5214% 이율로 싱글맘 죽음 내몬 사채업자… \"혐의 대부분 인정\"",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/008/0005156501"
+    },
+    {
+      "id": "APOS-4",
+      "kind": "세미나",
+      "date": "2025-02-19",
+      "title": "대부업법·채권추심법위반범죄 양형기준 상향을 위한 토론회 : 불법사채 근절 토론회 4차",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-7",
+      "kind": "이슈",
+      "date": "2025-01-29",
+      "title": "대부협회 경영유의",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-9",
+      "kind": "보도",
+      "date": "2025-01-29",
+      "title": "금감원, 워크숍 빙자해 골프·관광한 대부협회에 '경영유의'",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/119/0002918233"
+    },
+    {
+      "id": "PROD-11",
+      "kind": "공포",
+      "date": "2025-01-21",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 공포",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-8",
+      "kind": "이슈",
+      "date": "2025-01-03",
+      "title": "대부업자 구속기소",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-10",
+      "kind": "보도",
+      "date": "2025-01-03",
+      "title": "\"피해자만 6명\"…30대 싱글맘 죽음 내몬 사채업자 구속 기소",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/421/0008002409"
+    },
+    {
+      "id": "BILL-12",
+      "kind": "의안",
+      "date": "2024-12-24",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-13",
+      "kind": "이슈",
+      "date": "2024-12-17",
+      "title": "불법 사금융 근절",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-14",
+      "kind": "회의록",
+      "date": "2024-12-02",
+      "title": "회의록 [제22대국회 제418회 제2차 법안심사제1소위원회]",
+      "count": 4,
+      "url": ""
+    },
+    {
+      "id": "ISS-16",
+      "kind": "이슈",
+      "date": "2024-11-27",
+      "title": "불법 대부업자",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-18",
+      "kind": "보도",
+      "date": "2024-11-27",
+      "title": "연 3만6000% 이자 불법추심…소송으로 합의금 받아내",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/015/0005062152"
+    },
+    {
+      "id": "MEET-17",
+      "kind": "회의록",
+      "date": "2024-11-25",
+      "title": "회의록 [제22대국회 제418회 제1차 법안심사제1소위원회]",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-15",
+      "kind": "의안",
+      "date": "2024-11-04",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-19",
+      "kind": "보도",
+      "date": "2024-10-15",
+      "title": "“연이자 330% 내놔, 나체 사진 뿌린다”…불법대부업자 징역 1년",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/018/0005859722"
+    },
+    {
+      "id": "MEET-21",
+      "kind": "회의록",
+      "date": "2024-09-25",
+      "title": "회의록 [제22대국회 제418회 제1차 정무위원회]",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-20",
+      "kind": "의안",
+      "date": "2024-09-05",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안",
+      "count": 3,
+      "url": ""
+    },
+    {
+      "id": "BILL-22",
+      "kind": "의안",
+      "date": "2024-08-14",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안",
+      "count": 4,
+      "url": ""
+    },
+    {
+      "id": "APOS-23",
+      "kind": "세미나",
+      "date": "2024-07-19",
+      "title": "대부업 등록요건 강화를 위한 토론회 : 불법사채 근절 3대 입법 토론회 1차",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-24",
+      "kind": "의안",
+      "date": "2024-07-03",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안",
+      "count": 7,
+      "url": ""
+    },
+    {
+      "id": "ISS-25",
+      "kind": "이슈",
+      "date": "2024-06-30",
+      "title": "대부업체 위반사항 적발",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-26",
+      "kind": "이슈",
+      "date": "2024-05-27",
+      "title": "불법 도박 조직 검거",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-27",
+      "kind": "이슈",
+      "date": "2024-03-11",
+      "title": "대부업 일당 구속",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "PROD-28",
+      "kind": "공포",
+      "date": "2022-01-04",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 공포",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-29",
+      "kind": "회의록",
+      "date": "2021-12-08",
+      "title": "제21대국회 제391회 (정기회) 제9차 법제사법위원회(2021.12.08.)",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-30",
+      "kind": "회의록",
+      "date": "2021-11-23",
+      "title": "제21대국회 제391회 (정기회) 제3차 정무위원회(법안심사제1소위원회)(2021.11.23.)",
+      "count": 2,
+      "url": ""
+    },
+    {
+      "id": "MEET-31",
+      "kind": "회의록",
+      "date": "2021-02-17",
+      "title": "제21대국회 제384회 (임시회) 제2차 정무위원회(2021.02.17.)",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-32",
+      "kind": "의안",
+      "date": "2020-11-19",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-33",
+      "kind": "이슈",
+      "date": "2019-02-12",
+      "title": "대부업법",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-34",
+      "kind": "보도",
+      "date": "2019-02-12",
+      "title": "금융위, 대부업 연체 가산이자율 연 3%로 제한",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/011/0003503841"
+    },
+    {
+      "id": "ACT-35",
+      "kind": "시행",
+      "date": "2018-12-24",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 실행",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MODI-37",
+      "kind": "개정",
+      "date": "2018-12-24",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 개정",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "PROD-38",
+      "kind": "공포",
+      "date": "2018-12-24",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 공포",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-36",
+      "kind": "회의록",
+      "date": "2018-12-05",
+      "title": "제20대국회 제364회 제9차 법제사법위원회",
+      "count": 2,
+      "url": ""
+    },
+    {
+      "id": "MEET-39",
+      "kind": "회의록",
+      "date": "2018-11-22",
+      "title": "제20대국회 제364회 제10차 정무위원회",
+      "count": 3,
+      "url": ""
+    },
+    {
+      "id": "BILL-40",
+      "kind": "의안",
+      "date": "2018-09-12",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MAKE-41",
+      "kind": "제정",
+      "date": "2002-08-26",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 제정",
+      "count": 1,
+      "url": ""
+    }
+  ],
+  "records": [
+    {
+      "number": "2206910",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안",
+      "proposer": "정무위원장",
+      "status": "공포",
+      "date": "2024-12-24",
+      "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2E4S1X2G0S3K1I3I4O1Y3V4R4V9M6"
+    }
+  ],
+  "bills": [
+    {
+      "id": "PRC_P2E4S1X2G0S3K1I3I4O1Y3V4R4V9M6",
+      "number": "2206910",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안(대안)(정무위원장)",
+      "proposed": "2024-12-24",
+      "decided": "2024-12-27",
+      "result": "원안가결",
+      "committee": "정무위원회",
+      "promulgated": "2025-01-21",
+      "people": [],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2E4S1X2G0S3K1I3I4O1Y3V4R4V9M6",
+      "hasAlternatives": true,
+      "text": "1. 대안의 제안이유\r\n  최근 서민ㆍ취약계층이 금융이용에 있어 어려움을 겪고 있는 가운데, 민생을 심각하게 침해하는 불법사금융 범죄가 증가하고 있는 추세임. \r\n  특히, 불법채권추심을 동반한 반사회적인 불법 대부계약이 횡행하고 있으며, 온라인 대부중개사이트 등을 통해 개인정보가 불법사금융업자에게 넘어가는 등에 따른 범죄피해 확산 등도 문제로 제기되고 있음. 또한, 대부업 등록요건이 지나치게 낮아, 불법업체 난립 등으로 인해 대부업에 대한 소비자 신뢰도도 낮은 실정임.\r\n  이에, 반사회적인 대부계약의 효력을 무효화하고, 불법사금융 범죄에 대한 처벌을 강화하며, 대부업 등록기준 및 요건을 상향하는 등, 불법사금융을 근본적으로 척결하고 대부업 시장을 바로잡아 국민들의 피해를 예방하고 편리한 금융이용 환경을 조성하고자 하는 것임.\r\n\r\n\r\n2. 대안의 주요내용\r\n가. 이 법에 따른 등록 또는 등록갱신을 하지 아니하고 사실상 대부업등을 하는 자를 미등록대부업자와 미등록대부중개업자에서 불법사금융업자와 불법사금융중개업자로 각각 명칭을 변경하여 그 불법성을 보다 명확히 규정함(안 제2조제7호ㆍ제8호 등).\r\n나. 대부중개시스템을 활용하여 대부중개업을 하려는 자는 금융위원회에 등록하도록 하여 관리ㆍ감독을 강화함(안 제3조제2항제6호).\r\n다. 시ㆍ도지사 등록 대상인 대부업자의 자기자본요건을 “1천만원 이상으로 대통령령으로 정하는 금액”에서 “1억원 이상으로 대통령령으로 정하는 금액” 으로 상향하고, 대부중개업만을 하려는 자의 자기자본 요건을 신설하며, 자기자본 유지의무를 도입함(안 제3조의5).\r\n라. 대부계약 과정에서 성착취 추심, 인신매매, 신체상해, 폭행ㆍ협박 등의 행위가 있거나, 대부이자율이 최고이자율의 3배 이상으로서 대통령령으로 정하는 비율을 초과하는 경우 등 반사회적 불법대부계약은 원금과 이자를 무효화할 수 있는 근거를 마련함(안 제8조의2).\r\n마. 불법사금융업자가 대부를 하는 경우 해당 대부계약의 이자약정은  무효로 함(안 제11조).\r\n바. 불법사금융과 직접적으로 관련된 범죄에 대해서는 처벌 기준 형량을 징역 10년 이하ㆍ벌금 5억원 이하로 상향함(안 제19조).",
+      "fetchedAt": "2026-10-08T06:12:14.800Z",
+      "mode": "live",
+      "relation": "최근 연결 의안"
+    },
+    {
+      "id": "PRC_Y2W4V1D0H1G1H1P8O3N6L3M4I8H7F6",
+      "number": "2205219",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안(김현정의원 등 10인)",
+      "proposed": "2024-11-04",
+      "decided": "2024-12-27",
+      "result": "대안반영폐기",
+      "committee": "정무위원회",
+      "promulgated": "",
+      "people": [
+        {
+          "id": "22nd:KIMHYUNJUNG",
+          "name": "김현정",
+          "profileUrl": "https://www.assembly.go.kr/members/22nd/KIMHYUNJUNG",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/4301a55abe234eafb080864d7b26a27c.jpg",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2W4V1D0H1G1H1P8O3N6L3M4I8H7F6",
+      "hasAlternatives": true,
+      "text": "제안이유 및 주요내용\r\n\r\n  현행법은 사채시장에서의 고금리와 불법 대부행위를 제한하기 위해 대부업 등록과 최고 이자율 제한 등을 규제하고 있음.\r\n  하지만, 현실에서는 금융소비자들이 합법적이고 등록된 대부업체와 미등록 대부업체, 불법사채업체를 구분하기 어렵다는 지적이 있어왔음. \r\n  이에 등록을 하지 아니하고 사실상 대부업을 하는 자를 불법사금융업자와 불법사금융중개업자로 분명히 하고, 이들이 받을 수 있는 최대 이율을 상사법정이율(연 6퍼센트)로 제한하는 등으로 불법사금융 근절을 위한 제도적 기반을 마련하려는 것임(안 제11조 등).",
+      "fetchedAt": "2026-10-08T06:12:15.394Z",
+      "mode": "live",
+      "relation": "대안에 연결된 원안"
+    },
+    {
+      "id": "PRC_I2G4H0O9P2N3O1M1N2L8M5T0U3T6R4",
+      "number": "2204194",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안(강민국의원 등 10인)",
+      "proposed": "2024-09-23",
+      "decided": "2024-12-27",
+      "result": "대안반영폐기",
+      "committee": "정무위원회",
+      "promulgated": "",
+      "people": [
+        {
+          "id": "22nd:KANGMINKUK",
+          "name": "강민국",
+          "profileUrl": "https://www.assembly.go.kr/members/22nd/KANGMINKUK",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/70f21f66d1ea471192858adb6f379299.png",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2G4H0O9P2N3O1M1N2L8M5T0U3T6R4",
+      "hasAlternatives": true,
+      "text": "제안이유\r\n\r\n  최근 서민ㆍ취약계층이 금융이용에 있어 어려움을 겪고 있는 가운데, 민생을 심각하게 침해하는 불법사금융 범죄가 증가하고 있는 추세임. \r\n  특히, 불법채권추심을 동반한 반사회적인 불법 대부계약이 횡행하고 있으며, 온라인 대부중개사이트 등을 통해 개인정보가 불법사금융업자에게 넘어가는 등에 따른 범죄피해 확산 등도 문제로 제기되고 있음. 또한, 대부업 등록요건이 지나치게 낮아, 불법업체 난립 등으로 인해 대부업에 대한 소비자 신뢰도도 낮은 실정임.\r\n  이에, 반사회적인 대부계약의 효력을 무효화하고, 불법사금융 범죄에 대한 처벌을 강화하며, 대부업 등록기준 및 요건을 상향하는 등, 불법사금융을 근본적으로 척결하고 대부업 시장을 바로잡아 국민들의 피해를 예방하고 편리한 금융이용 환경을 조성하고자 하는 것임.\r\n\r\n\r\n주요내용\r\n\r\n가. 이 법에 따른 등록 또는 등록갱신을 하지 아니하고 사실상 대부업등을 하는 자를 미등록대부업자와 미등록대부중개업자에서 불법사금융업자와 불법사금융중개업자로 각각 명칭을 변경하여 그 불법성을 보다 명확히 규정함(안 제2조제7호ㆍ제8호 등).\r\n나. 대부중개업자로서 대통령령으로 정하는 자는 금융위원회에 등록하도록 하여 관리ㆍ감독을 강화함(안 제3조제2항제6호).\r\n다. 시ㆍ도지사 등록 대상인 대부업자의 자기자본요건을 “1천만원 이상으로 대통령령으로 정하는 금액”에서 “1억원 이상으로 대통령령으로 정하는 금액” 으로 상향하고, 자기자본 유지의무를 도입함(안 제3조의5).\r\n라. 성착취 추심, 인신매매, 신체상해, 폭행ㆍ협박 등을 전제로 체결된 반사회적 불법대부계약은 원금과 이자를 무효화할 수 있는 근거를 마련함(안 제8조의2).\r\n마. 불법사금융업자가 대부계약 시 「상법」 제54조에 따른 법정이율을 초과하는 이자는 무효화하도록 하여 불법대부에 따른 범죄이득을 제한함(안 제11조).\r\n바. 불법사금융과 직접적으로 관련된 범죄에 대해서는 처벌 기준 형량을 징역 5년 이하ㆍ벌금 2억원 이하로 상향함(안 제19조).",
+      "fetchedAt": "2026-10-08T06:12:15.407Z",
+      "mode": "live",
+      "relation": "대안에 연결된 원안"
+    },
+    {
+      "id": "PRC_X2Y4W0W9U1W3U1U0Q4Q1O3N7O4M9M3",
+      "number": "2204042",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안(김선교의원 등 11인)",
+      "proposed": "2024-09-13",
+      "decided": "2024-12-27",
+      "result": "대안반영폐기",
+      "committee": "정무위원회",
+      "promulgated": "",
+      "people": [
+        {
+          "id": "22nd:KIMSUNGYO",
+          "name": "김선교",
+          "profileUrl": "https://www.assembly.go.kr/members/22nd/KIMSUNGYO",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/c46ff6eaebc3441393b42d4e36d7a8c6.jpg",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2Y4W0W9U1W3U1U0Q4Q1O3N7O4M9M3",
+      "hasAlternatives": true,
+      "text": "제안이유 및 주요내용\r\n\r\n  현행법상 등록을 하지 아니하고 사실상 대부업을 하는 불법사금융업자 및 불법사금융중개업자가 횡행하고 있어 서민ㆍ취약계층의 일상을 파괴하는 경우가 많이 발생하고 있는데, 이들에 대한 제재ㆍ처벌 수준이 낮고, 고금리 대부계약과 악질적인 불법추심이 지속되어 불법사금융 척결을 위한 대부업 제도의 제도개편이 필요하다는 의견이 제기됨. \r\n  이에 미등록대부업자의 명칭을 ‘불법사금융업자’로 변경하여 국민적 경각심을 강화하고, 불법 사금융업자의 불법대부업에 대한 처벌을 강화하며, 불법대부계약의 불법이득 이자에 대해서도 제한하여 현행 20% 수준의 이자 제한 규정을 상사법정이율(6%)로 낮추는 등 불법사금융문제를 해소하고 대부업의 신뢰도를 제고하고자 함(안 제2조, 제9조의3, 제9조의4, 제11조, 제19조 및 제21조).",
+      "fetchedAt": "2026-10-08T06:12:15.393Z",
+      "mode": "live",
+      "relation": "대안에 연결된 원안"
+    },
+    {
+      "id": "PRC_I2Q4O0P8N1O2M1M3J3H4H3G4G7E2F8",
+      "number": "2203677",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안(정태호의원 등 11인)",
+      "proposed": "2024-09-05",
+      "decided": "2024-12-27",
+      "result": "대안반영폐기",
+      "committee": "정무위원회",
+      "promulgated": "",
+      "people": [
+        {
+          "id": "22nd:JUNGTAEHO",
+          "name": "정태호",
+          "profileUrl": "https://www.assembly.go.kr/members/22nd/JUNGTAEHO",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/4102e3f5e32448a890f3f213bc0976ae.png",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2Q4O0P8N1O2M1M3J3H4H3G4G7E2F8",
+      "hasAlternatives": true,
+      "text": "제안이유 및 주요내용\r\n\r\n  현행법은 대부업의 등록요건 중 자기자본 요건을 최하 1천만원 이상 범위에서 대통령령으로 정하도록 규정하고 있음. 이에 따라 대통령령에서는 시ㆍ도에 등록하려면 개인은 1천만원 이상의 순자산액을, 법인은 5천만원 이상의 자기자본을 갖추도록 규정하고, 금융위원회에 등록하려면 법인이 3억원 이상의 자기자본을 갖추도록 규정하고 있음. 또한, 현행법에서는 대부 이용자 보호를 위하여 법정 최고이자율을 초과한 대부계약의 경우 그 초과하는 부분에 대한 이자계약은 무효임을 명시하고 있음.\r\n  그런데 현행 대부업의 자기자본 요건이 지나치게 낮아 영세한 대부업자의 등록과 폐업이 빈번하며, 최근에는 가장납입으로 자기자본 요건을 서류상으로만 갖춘 뒤 실질적으로는 자기자본을 갖추지 아니하고 대부업에 등록한 후 영업을 한 대부업자가 적발된 바 있음. 또한 법정 최고이자율을 초과하는 고금리 대출 등 불법 대부업이 근절되고 있지 않아 금융취약계층의 피해로 이어지고 있어 이에 대한 대책 마련의 필요성이 제기되고 있음. \r\n  이에 대부업의 법정 자기자본 요건을 현행 1천만원 이상에서 5억원 이상으로 상향하면서 해당 자기자본 요건을 갖추지 못한 경우 등록이 취소되도록 하고, 법정 최고이자율의 2배를 초과하는 대부계약은 그 이자계약을 포함하여 해당 대부계약 전체를 무효화하며, 미등록대부업자 및 부정한 방법으로 등록 및 등록갱신을 한 자에 대한 처벌을 상향함으로써 고금리 불법 영업의 근절과 금융취약계층의 피해 방지를 도모하려는 것임(안 제3조의5, 제8조제5항, 제13조제2항, 제19조제1항 등).",
+      "fetchedAt": "2026-10-08T06:12:15.688Z",
+      "mode": "live",
+      "relation": "대안에 연결된 원안"
+    },
+    {
+      "id": "PRC_Q2P4W0V7T1S8P1M4L5T7S1R9Q7Y9X7",
+      "number": "2203233",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안(최형두의원 등 11인)",
+      "proposed": "2024-08-27",
+      "decided": "2024-12-27",
+      "result": "대안반영폐기",
+      "committee": "정무위원회",
+      "promulgated": "",
+      "people": [
+        {
+          "id": "22nd:CHOIHYUNGDU",
+          "name": "최형두",
+          "profileUrl": "https://www.assembly.go.kr/members/22nd/CHOIHYUNGDU",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/1805fd8990824622aec468b87cc3bb87.jpg",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2P4W0V7T1S8P1M4L5T7S1R9Q7Y9X7",
+      "hasAlternatives": true,
+      "text": "제안이유 및 주요내용\r\n`\r\n  현행법은 대부업을 하려는 자로 하여금 1천만원 이상의 자기자본을 갖출 것, 대부업 등의 준수사항에 관한 교육을 이수할 것 등 일정한 등록요건을 갖추고 시ㆍ도지사나 금융위원회에 등록하도록 규정하고 있으며, 등록하지 않고 대부업 등을 한 경우에는 5년 이하의 징역 또는 5천만원 이하의 벌금에 처하도록 규정함.\r\n  그러나 현행의 규정으로는 자기자본 요건이 낮아 대부업을 수행할만한 충분한 자격이 없는 자가 대부업을 하여 금융소비자의 피해 우려가 있고, 불법대부업에 대한 처벌 수준이 낮아 불법대부업을 방지하기에도 실효성이 떨어진다는 지적이 지속적으로 제기되고 있음. \r\n  한편, 일본의 경우에는 불법대부업으로 인한 피해를 방지하기 위하여 2006년 이후 우리나라의 이 법률에 해당하는 「대금업법」을 개정하여 단계적으로 시행하였는바, 불법대부업에 대한 처벌을 강화하고, 대부업을 하기 위한 순자산 요건으로 5,000만엔 이상을 설정하며, 영업소마다 국가 자격시험을 통과한 자(대부업무취급주심자)를 배치하여 대부업이 적정하게 수행되도록 하는 등의 정책을 통해 불법대부업 방지에 성과를 거둔 것으로 나타남.\r\n  이를 참조하여, 우리나라의 경우에도 대부업을 하기 위한 자기자본 요건을 현행 1천만원에서 3억원으로 상향하고, 대부업취급자격인 제도를 신설하여 영업소마다 대부업취급자격인을 두어 대부업 등이 법령에 적합하게 수행되도록 하며, 미등록대부업자의 경우 10년 이하의 징역 또는 2억원 이하의 벌금에 처하도록 하는 등 대부업으로 인한 금융소비자의 피해를 사전에 방지하려는 것임(안 제3조, 제3조의5, 제5조의4, 제19조 등).",
+      "fetchedAt": "2026-10-08T06:12:15.666Z",
+      "mode": "live",
+      "relation": "대안에 연결된 원안"
+    },
+    {
+      "id": "PRC_Z2X4Y0W8X1F2G1E6E4D1D2C2J2K3I2",
+      "number": "2203100",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안(박상혁의원 등 14인)",
+      "proposed": "2024-08-22",
+      "decided": "2024-12-27",
+      "result": "대안반영폐기",
+      "committee": "정무위원회",
+      "promulgated": "",
+      "people": [
+        {
+          "id": "22nd:PARKSANGHYUK",
+          "name": "박상혁",
+          "profileUrl": "https://www.assembly.go.kr/members/22nd/PARKSANGHYUK",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/963e0c49236e4f5a83fb777e6225456b.jpg",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2X4Y0W8X1F2G1E6E4D1D2C2J2K3I2",
+      "hasAlternatives": true,
+      "text": "제안이유\r\n\r\n  정부는 불법사금융 근절과 불법사금융으로 인한 피해 구제방안 및 대책 마련 등을 위한 노력을 지속해 왔음.\r\n  그러나 최근 경기침체 등으로 인한 가계부채 및 저신용자가 급증함에 따라 대부업자 및 대부중개업자를 이용하는 서민이 크게 증가하고 있어 이에 보다 효율적인 관리ㆍ감독이 필요한 실정임.  \r\n  이에 불법사금융업자와 불법사금융중개업자에 대한 관리ㆍ감독 및 제재에 대한 기준을 강화하여 대부업의 건전한 발전을 도모하고 금융이용자를 보호하려는 것임.\r\n\r\n\r\n주요내용\r\n\r\n가. 이 법에 따른 등록 또는 등록갱신을 하지 아니하고 사실상 대부업등을 하는 자를 미등록대부업자와 미등록대부중개업자에서 불법사금융업자와 불법사금융중개업자로 각각 명칭을 변경하여 그 불법성을 명확히 규정함(안 제9조의4 등).\r\n나. 불법사금융업자의 이자율의 최고한도를 「상법」 제54조에 따른 법정이율을 초과할 수 없도록 제한하여 불법적 이득에 대한 채무자의 반환청구권을 확대함(안 제11조).\r\n다. 금융감독원의 조사 권한을 강화하여 불법사금융업자등에 대한 신고와 관계자 출석 및 자료 제출 요구 등에 대한 법적 근거를 마련함(안 제12조의2 신설).\r\n라. 불법사금융업자등의 벌칙을 강화하여 등록의무 및 광고 금지 의무 위반은 5년 이하의 징역 또는 1억원 이하의 벌금으로 상향조정하고, 금융감독원의 조사 방해나 출석ㆍ진술 요구에 불응한 자에게는 5천만원 이하의 과태료를 신설함으로써 불법사금융업자등에 대한 규제의 실효성을 제고하고자 함(안 제19조, 제21조 등).",
+      "fetchedAt": "2026-10-08T06:12:15.678Z",
+      "mode": "live",
+      "relation": "대안에 연결된 원안"
+    },
+    {
+      "id": "PRC_T2B4C0A8Y1Z4X1Y3U0U2T1T8R1Q9R5",
+      "number": "2202893",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안(천준호의원 등 10인)",
+      "proposed": "2024-08-16",
+      "decided": "2024-12-27",
+      "result": "대안반영폐기",
+      "committee": "정무위원회",
+      "promulgated": "",
+      "people": [
+        {
+          "id": "22nd:CHEONJUNHO",
+          "name": "천준호",
+          "profileUrl": "https://www.assembly.go.kr/members/22nd/CHEONJUNHO",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/1ecd18672c604ef5a6c90dd06133006e.jpg",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2B4C0A8Y1Z4X1Y3U0U2T1T8R1Q9R5",
+      "hasAlternatives": true,
+      "text": "제안이유 및 주요내용\r\n\r\n  현행법은 미등록대부업자가 법정 최고이자율을 초과하여 대부계약을 한 경우 등록대부업자와 같이 초과분에 대한 이자계약을 무효로 하고, 채무자가 최고이자율을 초과하는 이자를 임의로 지급한 경우에 초과 지급된 이자 상당 금액을 원본에 충당하되, 남은 금액에 대해서는 반환을 청구할 수 있도록 하고 있음.\r\n  그러나 등록을 하지 않고 대부업 행위를 하는 불법사채 범죄는 개인의 인생을 저당잡아 악질적 수단으로 불법 추심하거나 경제적 파탄에 이르게 하는 등 사실상 인신매매와 다름없는 반사회적 범죄로, 그 계약을 원천 무효화하여 해당 범죄의 경제적 유인이 없도록 규제해야 할 필요가 있음.\r\n  타 입법례로 「성매매알선 등 행위의 처벌에 관한 법률」의 경우에도 불법원인으로 인한 채권을 원천 무효화하고 있는 점을 참고하면, 민법에서 규정하는 사인 간 계약이라고 하더라도 범죄의 심각성을 감안하여 필요에 따라 개별법에서 계약을 무효화 하는 것이 가능함.\r\n  이에 미등록대부업의 경우 금전대차에 관한 계약 전부를 무효화 하고 지급된 원금 및 이자에 대해서는 반환을 청구할 수 있도록 명시하는 동시에, 불법 대부행위의 벌금형을 상향하여 금전적 유인을 차단하고 범죄 적발 시 엄단할 수 있는 법적근거를 마련하고자 함(안 제11조 및 제19조 등).",
+      "fetchedAt": "2026-10-08T06:12:15.933Z",
+      "mode": "live",
+      "relation": "대안에 연결된 원안"
+    },
+    {
+      "id": "PRC_V2U4U0S8T0B6C1A0A2Y4Z4Y9G7G4E5",
+      "number": "2202821",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안(박성준의원 등 11인)",
+      "proposed": "2024-08-14",
+      "decided": "2024-12-27",
+      "result": "대안반영폐기",
+      "committee": "정무위원회",
+      "promulgated": "",
+      "people": [
+        {
+          "id": "22nd:PARKSUNGJOON",
+          "name": "박성준",
+          "profileUrl": "https://www.assembly.go.kr/members/22nd/PARKSUNGJOON",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/519d508d60414f3bb2a4d8a578db1534.png",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2U4U0S8T0B6C1A0A2Y4Z4Y9G7G4E5",
+      "hasAlternatives": true,
+      "text": "제안이유 및 주요내용\r\n\r\n  현행법은 대부업자로 등록하려는 경우 1천만원 이상의 자기자본 등의 요건을 갖추도록 하고 있는데, 대부업자 등록을 위한 문턱이 지나치게 낮음에 따라 불법대부업체들이 등록대부업체 명의를 돈을 주고 거래한 후 범죄에 악용하는 사례가 빈번하게 발생하고 있다는 지적이 제기됨. \r\n  또한 현행법은 미등록대부업자가 대부한 경우에도 계약에 따른 원금과 법정 최고이자를 보장하고 있어 불법적인 영업에 따른 이익을 근절하기 어려운 면이 있음.\r\n  한편 최근 대부업체와 이용자를 연결하여 주면서 대부업체의 광고를 보여주는 대부중개플랫폼이 크게 성장하고 있음. 그러나, 현재 대부중개플랫폼 운영자는 대부중개업자로서 시ㆍ도지사에 등록되어 있어 지방자치단체의 여력 부족으로 해당 플랫폼에 대한 촘촘한 관리ㆍ감독이 이루어지지 않는다는 문제가 제기되고, 현행법상 대부중개업자가 불법대부업자에게 대부중개한 경우 처벌 대상이 되지만, 대부중개플랫폼을 통한 광고의 경우 대부중개로 보기 어려워 해당 조항의 적용이 곤란하다는 의견이 있음.\r\n  이에 대부업자의 최소 자기자본 요건을 1천만원에서 1억원으로 상향하고 이를 유지하지 못할 경우 등록취소 사유로 규정하고, 대부업자가 최고 이자율을 초과하는 대부계약을 체결할 경우 이자계약 부분을 무효로 하면서 불법대부업자의 경우에는 그 계약 전부를 무효로 하며, 대부중개플랫폼을 활용하는 대부중개업자는 시ㆍ도지사가 아닌 금융위원회에 등록하도록 하고, 불법대부업자의 대부중개플랫폼 이용을 제한하는 등 현행법상 미비점을 개선하여 건전한 대부업 발전을 도모하려는 것임(안 제3조제2항제1호의2, 제3조의5제1항ㆍ제2항, 제8조제4항, 제11조제1항, 제11조의2제1항, 제13조제2항 등).",
+      "fetchedAt": "2026-10-08T06:12:15.922Z",
+      "mode": "live",
+      "relation": "대안에 연결된 원안"
+    },
+    {
+      "id": "PRC_Y2X4V0D7C3A0B1A0W0I8H1D9B1A2B0",
+      "number": "2202381",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안(천준호의원 등 14인)",
+      "proposed": "2024-07-30",
+      "decided": "2024-12-27",
+      "result": "대안반영폐기",
+      "committee": "정무위원회",
+      "promulgated": "",
+      "people": [
+        {
+          "id": "22nd:CHEONJUNHO",
+          "name": "천준호",
+          "profileUrl": "https://www.assembly.go.kr/members/22nd/CHEONJUNHO",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/1ecd18672c604ef5a6c90dd06133006e.jpg",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2X4V0D7C3A0B1A0W0I8H1D9B1A2B0",
+      "hasAlternatives": true,
+      "text": "제안이유 및 주요내용\r\n\r\n  현행법은 대부업 등록시 별도의 자격이나 경력을 요하지 않고, 자금 요건은 1천만 원 이상 범위에서 대통령령에서 정하도록 하고 있음. 현재 시행 중인 대통령령에 따르면, 각 지자체에 등록하는 경우 개인사업자는 1천만 원 이상의 순자산액, 법인은 5천만 원 이상의 자기자본만 보유하면 대부업 등록이 가능하고, 금융위원회에 등록하는 법인의 경우에는 3억 원 이상의 자기자본을 보유하도록 정하고 있음.\r\n  그러나 현행 제도에서는 대부업 시장의 진입장벽이 지나치게 낮아 대부업체가 난립하면서 감독기관의 관리ㆍ감독이 어렵고 등록 대부업체가 불법 사채에 악용되는 등, 제도개선 필요성이 지속적으로 제기되어 왔음. 실제로 2023년 말 기준 등록 대부업체는 전국 8,597개에 이르고, 이 중 지자체에 등록한 대부업체는 총 7,628개 업체로, 각 지자체가 관리ㆍ감독할 수 있는 범위를 초과했다는 평가가 있음. 실제로 이들 대부업체 중 상당수는 관리ㆍ감독의 공백을 악용하여 고객정보를 불법 사채업자에 넘기거나 위법한 추심을 일삼는 등 취약계층의 삶을 송두리째 흔드는 악질적 범죄와 연루되어 있는 것으로 파악됨.\r\n  이에 대부업을 등록하려는 자는 금융위에 등록된 대부업체에서 근무한 최소경력 기준에 부합하도록 하여 전문성을 제고하고, 자금 요건을 상향하여 실제 대부업을 운영할 자금 여력이 있는 업체들이 건전한 대부업 시장을 구성하도록 하여 불법사채의 극심한 피해로부터 서민을 보호하고자 함(안 제3조의5 및 제13조 등).",
+      "fetchedAt": "2026-10-08T06:12:15.920Z",
+      "mode": "live",
+      "relation": "대안에 연결된 원안"
+    },
+    {
+      "id": "PRC_K2G4F0E7M2L4J1S1Q3P0O0O3X1V5U5",
+      "number": "2202252",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안(김태선의원 등 14인)",
+      "proposed": "2024-07-25",
+      "decided": "2024-12-27",
+      "result": "대안반영폐기",
+      "committee": "정무위원회",
+      "promulgated": "",
+      "people": [
+        {
+          "id": "22nd:KIMTAESEON",
+          "name": "김태선",
+          "profileUrl": "https://www.assembly.go.kr/members/22nd/KIMTAESEON",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/dad545c45b274b35bf2e336bee9b68ed.jpg",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2G4F0E7M2L4J1S1Q3P0O0O3X1V5U5",
+      "hasAlternatives": true,
+      "text": "제안이유 및 주요내용\r\n\r\n  현행법은 대부업 등록을 위한 최소 자기자본을 1천만원으로 정하고 있습니다. 그러나 이 기준은 금융 시장의 변화와 물가 상승 등의 변화를 고려할 때, 대부업체의 재무 건전성을 충분히 확보하기에는 부족하다는 지적이 있습니다.\r\n  특히, 낮은 자기자본 요건으로 인하여 자본이 부실한 개인들이 손쉽게 대부업에 뛰어들 수 있어 대부업체가 경영 위기에 처할 경우 소비자가 불법 추심 등의 위험에 노출될 우려가 높아져 서민을 비롯한 금융소비자들의 피해가 커지는 등 문제가 드러나고 있습니다.\r\n  이에 대부업 등록을 위한 최소 자기자본을 1천만원에서 2억원으로 상향함으로써 대부업체의 재무 건전성을 강화하고 금융 소비자에 대한 보호를 두텁게 하여 대부업 시장의 안정성을 높이고자 합니다(안 제3조의5).",
+      "fetchedAt": "2026-10-08T06:12:16.146Z",
+      "mode": "live",
+      "relation": "대안에 연결된 원안"
+    },
+    {
+      "id": "PRC_S2A4Y0Y7X1Y5W2W0E3D2D2B0C4B3B5",
+      "number": "2202172",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안(윤준병의원 등 10인)",
+      "proposed": "2024-07-24",
+      "decided": "2024-12-27",
+      "result": "대안반영폐기",
+      "committee": "정무위원회",
+      "promulgated": "",
+      "people": [
+        {
+          "id": "22nd:YOONJOONBYEONG",
+          "name": "윤준병",
+          "profileUrl": "https://www.assembly.go.kr/members/22nd/YOONJOONBYEONG",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/89ccbbcada844034b529603534c9ad2e.jpg",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2A4Y0Y7X1Y5W2W0E3D2D2B0C4B3B5",
+      "hasAlternatives": true,
+      "text": "제안이유 및 주요내용\r\n\r\n  현행법은 등록대부업자 및 여신금융기관이 채무자로부터 받을 수 있는 법정 최고이자율을 연 27.9% 이하로 정하고 있고, 시행령에서 법정 최고이자율을 연 20%로 정하고 있음. 또한 등록 또는 미등록대부업자와 여신금융기관이 법정 최고이자율을 초과하는 대부계약을 체결한 경우 초과분에 대한 이자계약만을 무효로 하고, 초과 지급된 이자 상당금액은 원본에 충당하되 원본에 충당되고 남은 금액이 있으면 그 반환을 청구할 수 있도록 규정하고 있음.\r\n  그러나 지난해 발표된 한국대부금융협회의 미등록대부업, 이른바 ‘불법사채’의 연환산 평균 이자율은 414%에 달하는 등 여전히 법정 최고이자율을 초과한 대출로 채무자들이 어려움을 겪고 있어 불법사채를 근본적으로 금지하고, 채무자의 과도한 이자부담을 경감해야 할 필요성이 있음.\r\n  이에 대부업자의 이자율 제한을 기존 27.9% 이하에서 20%로 명시하고, 법정 최고이자율을 초과하는 대부계약에 대하여 초과분이 아닌 이자계약 전부를 무효로 하며, 법정 최고이자율의 2배를 초과하는 대부계약은 대부계약 전부를 무효로 하고, 그 원금을 상환할 수 없도록 명확히 규정하여 불법사채를 근절하려는 것임(안 제8조 및 제19조 등).",
+      "fetchedAt": "2026-10-08T06:12:16.186Z",
+      "mode": "live",
+      "relation": "대안에 연결된 원안"
+    },
+    {
+      "id": "PRC_E2D4D0C6J2K8I1J5H5I8G1O4P4N2O2",
+      "number": "2201517",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안(민병덕의원 등 12인)",
+      "proposed": "2024-07-09",
+      "decided": "2024-12-27",
+      "result": "대안반영폐기",
+      "committee": "정무위원회",
+      "promulgated": "",
+      "people": [
+        {
+          "id": "22nd:MINBYOUNGDUG",
+          "name": "민병덕",
+          "profileUrl": "https://www.assembly.go.kr/members/22nd/MINBYOUNGDUG",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/79413446d5564edd90faa2a1b279f9e8.jpg",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2D4D0C6J2K8I1J5H5I8G1O4P4N2O2",
+      "hasAlternatives": true,
+      "text": "제안이유 및 주요내용\r\n\r\n  미등록대부업자는 관리ㆍ감독을 받지 않기 위해 정부 및 지자체에 등록도 하지 않고, 초고금리 및 불법 광고로 저신용자들의 피해를 양산함. \r\n  미등록대부업자는 불법으로 막대한 경제적 이익을 얻으면서도, 적발 시에도 「이자제한법」에 따른 최고이자율 수준의 경제적 이익을 기대할 수 있는 문제가 있기에, ‘불법사금융’ 이라는 하나의 산업군을 형성하며 활동하는 미등록대부업자들은 사회에서 퇴출되지 않고 있음.\r\n  미등록대부업자와의 이자약정 전부를 무효로 하여, 미등록대부업자가 어떠한 경제적 이익도 기대하지 못하도록 하고자 하며, 등록대부업자라도「이자제한법」에 따른 최고이자율 이상의 고금리를 채무자로부터 수취한 경우에는 이자 약정 전부를 무효로 하여, 대부업자의 불법 영업에 경제적 불이익이 따르도록 하여 불법사금융을 근절하려 함.\r\n  이에「대부업 등의 등록 및 금융이용자 보호에 관한 법률」을 개정해 불법사금융 영업에 따른 서민 금융소비자의 피해를 최소화하려 함(안 제8조 및 제11조 등).",
+      "fetchedAt": "2026-10-08T06:12:16.259Z",
+      "mode": "live",
+      "relation": "대안에 연결된 원안"
+    },
+    {
+      "id": "PRC_W2U4V0T7U0C2C1B4B5A0Y5Y2G9H0F1",
+      "number": "2201514",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안(조정식의원 등 10인)",
+      "proposed": "2024-07-09",
+      "decided": "2024-12-27",
+      "result": "대안반영폐기",
+      "committee": "정무위원회",
+      "promulgated": "",
+      "people": [
+        {
+          "id": "22nd:CHOJEONGSIK",
+          "name": "조정식",
+          "profileUrl": "https://www.assembly.go.kr/members/22nd/CHOJEONGSIK",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/340424a491b7497cbfee7a446cdcbaa3.jpg",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2U4V0T7U0C2C1B4B5A0Y5Y2G9H0F1",
+      "hasAlternatives": true,
+      "text": "제안이유 및 주요내용\r\n\r\n  현행법은 대부업의 등록요건 중 자기자본 요건을 최하 1천만원 이상 범위에서 대통령령으로 정하도록 하고, 대통령령에서는 법인만 등록이 가능한 금융위원회 등록대상은 3억원 이상으로, 시ㆍ도 등록대상의 경우 법인은 5천만원 이상, 법인이 아닌 자는 1천만원 이상으로 규정하고 있음. \r\n  그런데 시ㆍ도 등록 대부업의 자기자본 요건이 지나치게 낮아 영세한 대부업자가 난립하고 등록 및 폐업이 빈번하여 서민층의 금융 피해가 증가하고 행정력이 낭비되는 요인이 되고 있다는 지적이 있음.\r\n  이에 법률에서 정하는 대부업의 최하 자기자본 요건을 현행 1천만원 이상에서 1억원 이상으로 상향함으로써 영세한 대부업자의 난립과 이용자의 피해를 방지하려는 것임(안 제3조의5제1항제1호 및 제2항제2호).",
+      "fetchedAt": "2026-10-08T06:12:16.406Z",
+      "mode": "live",
+      "relation": "대안에 연결된 원안"
+    },
+    {
+      "id": "PRC_U2U4S0B7B0Z2A1Y1Z0X7Y2T0S0S8R1",
+      "number": "2201391",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안(서영교의원 등 10인)",
+      "proposed": "2024-07-04",
+      "decided": "2024-12-27",
+      "result": "대안반영폐기",
+      "committee": "정무위원회",
+      "promulgated": "",
+      "people": [
+        {
+          "id": "22nd:SEOYOUNGKYO",
+          "name": "서영교",
+          "profileUrl": "https://www.assembly.go.kr/members/22nd/SEOYOUNGKYO",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/c061e90cf359465fa1408c443a4a7857.jpg",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2U4S0B7B0Z2A1Y1Z0X7Y2T0S0S8R1",
+      "hasAlternatives": true,
+      "text": "제안이유 및 주요내용\r\n\r\n  우리나라의 이자제한 제도는 사채시장의 양성화 및 불법채권추심행위의 규제를 목적으로 합법적인 대부업에는 고금리의 보장 필요성에 따라 이원화하여 사적 거래에 있어 미등록대부업자 등 일반인은 「이자제한법」에 따라 연 25퍼센트를, 등록대부업자 및 여신금융기관은 「대부업 등의 등록 및 금융이용자 보호에 관한 법률」에 따라 연 100분의 27.9 이하를 초과하여 이자를 받을 수 없도록 하고, 제한이자보다 높은 이자를 받았을 경우 그 초과한 이자 부분은 각각 무효로 하고 있음.\r\n  그러나 당초 입법 목적대로 사채시장의 양성화는 두드러졌지만 고금리와 불법채권추심행위로 인하여 개인 파산 및 자살 증가 등 사회적 부작용이 심각한 수준이고, 많은 대부업자들은 제한금리를 초과하는 불법 폭리를 취하고 있음에도 최고이자율을 초과한 이자에 대해서만 무효로 하고 있고 처벌이 미약하여 근절되지 않고 있으며, 이로 말미암아 낮은 신용등급으로 사채시장을 이용할 수밖에 없는 서민들이 자립할 수 없을 정도의 고금리에 허덕이게 됨으로써 국민의 경제적 자유를 침해하는 결과를 초래하고 있음.\r\n  이에 대부업자 및 여신금융기관의 최고이자율을 「이자제한법」에 따른 이자율로 일원화함으로써 서민계층의 경제적인 부담을 덜어주는 한편, 금융시장에서의 이자율 제한에 관한 구조적인 문제점을 개선하려는 것임(안 제8조ㆍ제11조 및 제15조). \r\n\r\n\r\n참고사항\r\n\r\n  이 법률안은 서영교의원이 대표발의한 「이자제한법 일부개정법률안」(의안번호 제1392호)의 의결을 전제로 하는 것이므로 같은 법률안이 의결되지 아니하거나 수정의결되는 경우에는 이에 맞추어 조정되어야 할 것임.",
+      "fetchedAt": "2026-10-08T06:12:16.440Z",
+      "mode": "live",
+      "relation": "대안에 연결된 원안"
+    },
+    {
+      "id": "PRC_A2H4I0H6H1F2G1F7M0N8L2M2K2L9J9",
+      "number": "2201319",
+      "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안(한정애의원 등 11인)",
+      "proposed": "2024-07-03",
+      "decided": "2024-12-27",
+      "result": "대안반영폐기",
+      "committee": "정무위원회",
+      "promulgated": "",
+      "people": [
+        {
+          "id": "22nd:HANJEOUNGAE",
+          "name": "한정애",
+          "profileUrl": "https://www.assembly.go.kr/members/22nd/HANJEOUNGAE",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/7b04f535d62d401da2af886555ee4e4f.jpg",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2H4I0H6H1F2G1F7M0N8L2M2K2L9J9",
+      "hasAlternatives": true,
+      "text": "제안이유 및 주요내용\r\n\r\n  현행법령에 따르면 대부업 또는 대부중개업(이하 “대부업등”이라 함)을 하려는 자는 자기자본(법인이 아닌 경우 순자산액) 등의 요건을 갖추어 등록하여야 함. 여기서 자기자본 요건은 등록대상자에 따라 달라지는데, 시ㆍ도지사 등록대상인 법인의 경우 5천만원 이상, 법인이 아닌 자인 경우 1천만원 이상인 한편, 금융위원회 등록대상은 3억원 이상이고, 대부중개업을 등록하려는 자에 대해서는 자기자본 요건이 적용되지 아니함. \r\n  그런데 최근 불법 대부업자들의 범죄 행태가 사회적 문제로 대두되고 있음. 이들은 법정 최고 이율(연 20%)의 250배에 달하는 5,000%의 폭리를 취하거나 고금리 사채 미상환을 빌미로 나체사진을 받아내어 피해자를 협박하는 등 인권유린적인 불법 추심으로 경제적 약자들의 정상적인 사회 생활을 가로막고 있다는 지적이 제기됨. 이러한 행태를 근절하기 위하여 일본의 대부업자 등록제도 중 최저 순자산액 기준을 참고하여 도입함으로써 불법ㆍ영세 대부업자의 무분별한 난립을 해소할 필요가 있다는 의견이 있음. \r\n  이에 모든 대부업등의 등록대상에 대한 순자산액 요건을 3억원 이상으로 하고, 대부업자 및 대부중개업자가 등록 이후 자산보유액을 3억원 이상 유지하지 않을 경우 등록을 취소하도록 규제함으로써 대부업자의 무분별한 난립을 방지하고 금융이용자를 불법추심 등의 피해로부터 보호하려는 것임(안 제2조, 제3조의5 및 제13조).",
+      "fetchedAt": "2026-10-08T06:12:16.500Z",
+      "mode": "live",
+      "relation": "대안에 연결된 원안"
+    }
+  ],
+  "people": [
+    {
+      "id": "22nd:KIMHYUNJUNG",
+      "name": "김현정",
+      "profileUrl": "https://www.assembly.go.kr/members/22nd/KIMHYUNJUNG",
+      "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/4301a55abe234eafb080864d7b26a27c.jpg",
+      "role": "대표발의",
+      "billIds": [
+        "PRC_Y2W4V1D0H1G1H1P8O3N6L3M4I8H7F6"
+      ]
+    },
+    {
+      "id": "22nd:KANGMINKUK",
+      "name": "강민국",
+      "profileUrl": "https://www.assembly.go.kr/members/22nd/KANGMINKUK",
+      "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/70f21f66d1ea471192858adb6f379299.png",
+      "role": "대표발의",
+      "billIds": [
+        "PRC_I2G4H0O9P2N3O1M1N2L8M5T0U3T6R4"
+      ]
+    },
+    {
+      "id": "22nd:KIMSUNGYO",
+      "name": "김선교",
+      "profileUrl": "https://www.assembly.go.kr/members/22nd/KIMSUNGYO",
+      "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/c46ff6eaebc3441393b42d4e36d7a8c6.jpg",
+      "role": "대표발의",
+      "billIds": [
+        "PRC_X2Y4W0W9U1W3U1U0Q4Q1O3N7O4M9M3"
+      ]
+    },
+    {
+      "id": "22nd:JUNGTAEHO",
+      "name": "정태호",
+      "profileUrl": "https://www.assembly.go.kr/members/22nd/JUNGTAEHO",
+      "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/4102e3f5e32448a890f3f213bc0976ae.png",
+      "role": "대표발의",
+      "billIds": [
+        "PRC_I2Q4O0P8N1O2M1M3J3H4H3G4G7E2F8"
+      ]
+    },
+    {
+      "id": "22nd:CHOIHYUNGDU",
+      "name": "최형두",
+      "profileUrl": "https://www.assembly.go.kr/members/22nd/CHOIHYUNGDU",
+      "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/1805fd8990824622aec468b87cc3bb87.jpg",
+      "role": "대표발의",
+      "billIds": [
+        "PRC_Q2P4W0V7T1S8P1M4L5T7S1R9Q7Y9X7"
+      ]
+    },
+    {
+      "id": "22nd:PARKSANGHYUK",
+      "name": "박상혁",
+      "profileUrl": "https://www.assembly.go.kr/members/22nd/PARKSANGHYUK",
+      "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/963e0c49236e4f5a83fb777e6225456b.jpg",
+      "role": "대표발의",
+      "billIds": [
+        "PRC_Z2X4Y0W8X1F2G1E6E4D1D2C2J2K3I2"
+      ]
+    },
+    {
+      "id": "22nd:CHEONJUNHO",
+      "name": "천준호",
+      "profileUrl": "https://www.assembly.go.kr/members/22nd/CHEONJUNHO",
+      "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/1ecd18672c604ef5a6c90dd06133006e.jpg",
+      "role": "대표발의",
+      "billIds": [
+        "PRC_T2B4C0A8Y1Z4X1Y3U0U2T1T8R1Q9R5",
+        "PRC_Y2X4V0D7C3A0B1A0W0I8H1D9B1A2B0"
+      ]
+    },
+    {
+      "id": "22nd:PARKSUNGJOON",
+      "name": "박성준",
+      "profileUrl": "https://www.assembly.go.kr/members/22nd/PARKSUNGJOON",
+      "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/519d508d60414f3bb2a4d8a578db1534.png",
+      "role": "대표발의",
+      "billIds": [
+        "PRC_V2U4U0S8T0B6C1A0A2Y4Z4Y9G7G4E5"
+      ]
+    },
+    {
+      "id": "22nd:KIMTAESEON",
+      "name": "김태선",
+      "profileUrl": "https://www.assembly.go.kr/members/22nd/KIMTAESEON",
+      "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/dad545c45b274b35bf2e336bee9b68ed.jpg",
+      "role": "대표발의",
+      "billIds": [
+        "PRC_K2G4F0E7M2L4J1S1Q3P0O0O3X1V5U5"
+      ]
+    },
+    {
+      "id": "22nd:YOONJOONBYEONG",
+      "name": "윤준병",
+      "profileUrl": "https://www.assembly.go.kr/members/22nd/YOONJOONBYEONG",
+      "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/89ccbbcada844034b529603534c9ad2e.jpg",
+      "role": "대표발의",
+      "billIds": [
+        "PRC_S2A4Y0Y7X1Y5W2W0E3D2D2B0C4B3B5"
+      ]
+    },
+    {
+      "id": "22nd:MINBYOUNGDUG",
+      "name": "민병덕",
+      "profileUrl": "https://www.assembly.go.kr/members/22nd/MINBYOUNGDUG",
+      "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/79413446d5564edd90faa2a1b279f9e8.jpg",
+      "role": "대표발의",
+      "billIds": [
+        "PRC_E2D4D0C6J2K8I1J5H5I8G1O4P4N2O2"
+      ]
+    },
+    {
+      "id": "22nd:CHOJEONGSIK",
+      "name": "조정식",
+      "profileUrl": "https://www.assembly.go.kr/members/22nd/CHOJEONGSIK",
+      "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/340424a491b7497cbfee7a446cdcbaa3.jpg",
+      "role": "대표발의",
+      "billIds": [
+        "PRC_W2U4V0T7U0C2C1B4B5A0Y5Y2G9H0F1"
+      ]
+    },
+    {
+      "id": "22nd:SEOYOUNGKYO",
+      "name": "서영교",
+      "profileUrl": "https://www.assembly.go.kr/members/22nd/SEOYOUNGKYO",
+      "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/c061e90cf359465fa1408c443a4a7857.jpg",
+      "role": "대표발의",
+      "billIds": [
+        "PRC_U2U4S0B7B0Z2A1Y1Z0X7Y2T0S0S8R1"
+      ]
+    },
+    {
+      "id": "22nd:HANJEOUNGAE",
+      "name": "한정애",
+      "profileUrl": "https://www.assembly.go.kr/members/22nd/HANJEOUNGAE",
+      "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/7b04f535d62d401da2af886555ee4e4f.jpg",
+      "role": "대표발의",
+      "billIds": [
+        "PRC_A2H4I0H6H1F2G1F7M0N8L2M2K2L9J9"
+      ]
+    }
+  ],
+  "alternativeTotal": 15,
+  "scope": "아르고스가 최근 연결한 의안 1건과 그 대안에 연결된 원안(최대 20건)",
+  "warnings": [],
+  "fetchedAt": "2026-10-08T06:12:16.504Z",
+  "mode": "live"
+}

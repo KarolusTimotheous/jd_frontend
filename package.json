@@ -1,0 +1,32 @@
+{
+  "name": "jd_frontend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && node server/build.mjs",
+    "preview": "vite preview",
+    "format": "oxfmt src server tests legacy/design-demo/src vite.config.js",
+    "test": "node --test tests/*.test.mjs tests/*.test.js",
+    "snapshot": "node server/refresh-snapshot.mjs",
+    "start": "node preview.mjs",
+    "check": "npm test && npm run build"
+  },
+  "dependencies": {
+    "cheerio": "1.2.0",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "4.2.2",
+    "@vitejs/plugin-react": "6.0.1",
+    "esbuild": "0.28.2",
+    "oxfmt": "0.2.0",
+    "tailwindcss": "4.2.2",
+    "vite": "8.0.5"
+  },
+  "engines": {
+    "node": ">=22.18.0"
+  }
+}

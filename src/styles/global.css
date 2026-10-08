@@ -1,0 +1,73 @@
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 120px;
+}
+
+body {
+  background: #fafaf7;
+  color: #20222a;
+  font-family: var(--font-sans);
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: #6250d8;
+  color: #fff;
+}
+
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+summary:focus-visible {
+  outline: 2px solid #6250d8;
+  outline-offset: 2px;
+}
+
+button, summary { cursor: pointer; }
+button:disabled { cursor: not-allowed; }
+.grid > * { min-width: 0; }
+input, textarea { font: inherit; }
+.detail-dialog { width: min(620px, calc(100vw - 32px)); max-height: calc(100dvh - 40px); margin: auto; border: 1px solid #e3e1da; border-top: 3px solid #6250d8; box-shadow: 0 24px 80px #20222a33; }
+.detail-dialog::backdrop { background: #20222a80; backdrop-filter: blur(3px); }
+.skip-link { position: fixed; left: 16px; top: -80px; z-index: 100; background: #6250d8; color: white; padding: 12px 20px; }
+.skip-link:focus { top: 12px; }
+@media (max-width: 420px) { header > div:first-child { gap: 8px; padding-left: 12px; padding-right: 12px; } header nav button { font-size: 12px; padding-left: 6px; padding-right: 6px; } }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; } }
+
+.rule-top {
+  border-top: 2px solid #20222a;
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.fade-up {
+  animation: none;
+}
+@keyframes pop {
+  from {
+    opacity: 0;
+    transform: scale(0.6);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.pop {
+  /* SVG node positions use transform attributes. A CSS transform animation
+     would override those positions and stack every node at the origin. */
+  animation: none;
+  transform-box: fill-box;
+  transform-origin: center;
+}

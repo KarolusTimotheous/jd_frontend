@@ -1,0 +1,770 @@
+{
+  "law": {
+    "id": "20230044",
+    "parentId": "00000000",
+    "rank": 2,
+    "name": "전자금융거래법",
+    "issue": "금융기관 해킹",
+    "summary": "전자금융거래법은 전자금융거래의 신뢰성을 위해 금융회사의 정보기술 안전성 확보 등을 규정하고 있습니다. 이와 관련한 금융기관 해킹 이슈는 신한은행, KB국민은행, 하나은행 등 국내 금융기관을 대상으로 해킹 공격이 잇따라 발생한 사건입니다. 이번 공격은 은행의 핵심 금융거래 시스템뿐 아니라 직원용 업무지원 시스템과 대출 관련 서비스 등 외부에 노출된 시스템을 대상으로 이루어졌으며, 인공지능이 활용된 정황도 제기됐습니다.",
+    "updated": "2026-10-07",
+    "sourceUrl": "https://argos.nanet.go.kr/main/fusionanalysis/lawIssueGuest.do?lawKwdId=20230044&lawKwdPid=00000000&titleNm=%EC%A0%84%EC%9E%90%EA%B8%88%EC%9C%B5%EA%B1%B0%EB%9E%98%EB%B2%95"
+  },
+  "fullName": "전자금융거래법",
+  "enacted": "2006-04-28",
+  "timeline": [
+    {
+      "id": "ISS-0",
+      "kind": "이슈",
+      "date": "2026-10-06",
+      "title": "금융기관 해킹",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "PROD-3",
+      "kind": "공포",
+      "date": "2026-09-29",
+      "title": "전자금융거래법 공포",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-2",
+      "kind": "회의록",
+      "date": "2026-09-15",
+      "title": "제22대국회 제439회 제2차 정무위원회",
+      "count": 3,
+      "url": ""
+    },
+    {
+      "id": "BILL-1",
+      "kind": "의안",
+      "date": "2026-09-11",
+      "title": "전자금융거래법 일부개정법률안",
+      "count": 2,
+      "url": ""
+    },
+    {
+      "id": "BILL-4",
+      "kind": "의안",
+      "date": "2026-08-24",
+      "title": "전자금융거래법 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-5",
+      "kind": "이슈",
+      "date": "2025-12-07",
+      "title": "업비트 해킹 제재",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-6",
+      "kind": "이슈",
+      "date": "2025-10-18",
+      "title": "사기 통장 명의자",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-7",
+      "kind": "이슈",
+      "date": "2025-09-10",
+      "title": "위메프 파산",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-8",
+      "kind": "이슈",
+      "date": "2025-06-26",
+      "title": "상품권 사기 해피머니 송치",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-9",
+      "kind": "이슈",
+      "date": "2025-06-05",
+      "title": "해피머니 대표 구속영장 기각",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-10",
+      "kind": "이슈",
+      "date": "2025-05-30",
+      "title": "상품권 환급 책임",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-11",
+      "kind": "이슈",
+      "date": "2025-03-20",
+      "title": "문화상품권 선불업 미등록 수사",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-12",
+      "kind": "이슈",
+      "date": "2025-01-23",
+      "title": "대포통장 공장",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-13",
+      "kind": "보도",
+      "date": "2025-01-23",
+      "title": "금융회사가 ‘대포통장 공장’?…새마을금고 임직원 낀 대포통장 유통조직 적발",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/032/0003347359"
+    },
+    {
+      "id": "BILL-14",
+      "kind": "의안",
+      "date": "2024-10-31",
+      "title": "전자금융거래법 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ACT-15",
+      "kind": "시행",
+      "date": "2024-09-15",
+      "title": "전자금융거래법 실행",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-16",
+      "kind": "의안",
+      "date": "2024-08-09",
+      "title": "전자금융거래법 일부개정법률안",
+      "count": 2,
+      "url": ""
+    },
+    {
+      "id": "ISS-18",
+      "kind": "이슈",
+      "date": "2024-07-26",
+      "title": "티메프 사태",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "APOS-17",
+      "kind": "세미나",
+      "date": "2024-07-11",
+      "title": "가상자산이용자보호법과 가상자산시장육성법에 대한 정책 토론회",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-19",
+      "kind": "이슈",
+      "date": "2024-06-25",
+      "title": "선불충전금 정보 관리",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-20",
+      "kind": "이슈",
+      "date": "2024-05-05",
+      "title": "투자사기단 조직원 징역",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-21",
+      "kind": "이슈",
+      "date": "2024-04-23",
+      "title": "유령법인 계좌 개설",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-22",
+      "kind": "이슈",
+      "date": "2024-04-14",
+      "title": "대포통장 거래",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-23",
+      "kind": "이슈",
+      "date": "2023-10-03",
+      "title": "보이스피싱",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-24",
+      "kind": "보도",
+      "date": "2023-10-03",
+      "title": "23년도, 우체국 보이스피싱 피해 급증",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/001/0014233619"
+    },
+    {
+      "id": "MODI-26",
+      "kind": "개정",
+      "date": "2023-09-14",
+      "title": "전자금융거래법 개정",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "PROD-27",
+      "kind": "공포",
+      "date": "2023-09-14",
+      "title": "전자금융거래법 공포",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-25",
+      "kind": "이슈",
+      "date": "2023-09-05",
+      "title": "가상화폐 사기 일당",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-28",
+      "kind": "의안",
+      "date": "2023-08-23",
+      "title": "전자금융거래법 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-29",
+      "kind": "회의록",
+      "date": "2023-08-23",
+      "title": "제21대국회 제409회 제2차 법제사법위원회",
+      "count": 2,
+      "url": ""
+    },
+    {
+      "id": "MEET-30",
+      "kind": "회의록",
+      "date": "2023-05-11",
+      "title": "제21대국회 제406회 제1차 정무위원회",
+      "count": 2,
+      "url": ""
+    },
+    {
+      "id": "MEET-32",
+      "kind": "회의록",
+      "date": "2023-04-25",
+      "title": "제21대국회 제405회 제1차 법안심사제1소위원회",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-31",
+      "kind": "이슈",
+      "date": "2023-04-18",
+      "title": "시중은행 가상계좌",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-33",
+      "kind": "회의록",
+      "date": "2023-03-28",
+      "title": "제21대국회 제404회 (임시회) 제2차 정무위원회(법안심사제1소위원회)(2023.03.28.)",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-34",
+      "kind": "회의록",
+      "date": "2023-02-21",
+      "title": "제21대국회 제403회 제2차 정무위원회",
+      "count": 2,
+      "url": ""
+    },
+    {
+      "id": "MEET-36",
+      "kind": "회의록",
+      "date": "2022-12-26",
+      "title": "제21대국회 제401회 (임시회) 제1차 정무위원회(법안심사제1소위원회)(2022.12.26.)",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-35",
+      "kind": "의안",
+      "date": "2022-12-06",
+      "title": "전자금융거래법 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-38",
+      "kind": "회의록",
+      "date": "2022-11-08",
+      "title": "제21대국회 제400회 제13차 정무위원회",
+      "count": 2,
+      "url": ""
+    },
+    {
+      "id": "BILL-37",
+      "kind": "의안",
+      "date": "2022-11-04",
+      "title": "전자금융거래법 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-39",
+      "kind": "의안",
+      "date": "2022-10-21",
+      "title": "전자금융거래법 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-40",
+      "kind": "의안",
+      "date": "2022-09-20",
+      "title": "전자금융거래법 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-41",
+      "kind": "회의록",
+      "date": "2022-09-20",
+      "title": "제21대국회 제400회 제2차 정무위원회",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "APOS-42",
+      "kind": "세미나",
+      "date": "2022-08-30",
+      "title": "보이스피싱예방협회 발족식 및 포럼 : 보이스피싱이 사라지는 그날까지",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-43",
+      "kind": "이슈",
+      "date": "2022-08-25",
+      "title": "대출 보이스피싱",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-44",
+      "kind": "보도",
+      "date": "2022-08-23",
+      "title": "기관 사칭 보이스피싱 기승",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/119/0002632800?rc=N&ntype=RANKING"
+    },
+    {
+      "id": "NEWS-45",
+      "kind": "보도",
+      "date": "2022-08-11",
+      "title": "정부지원 대출 미끼로 9억여원 가로챈 보이스피싱 수거책 검거",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/421/0006271616?rc=N&ntype=RANKING"
+    },
+    {
+      "id": "NEWS-46",
+      "kind": "보도",
+      "date": "2022-08-04",
+      "title": "보이스 피싱 방지앱도 짝퉁",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/422/0000554209?rc=N&ntype=RANKING"
+    },
+    {
+      "id": "BILL-47",
+      "kind": "의안",
+      "date": "2022-06-14",
+      "title": "전자금융거래법 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-48",
+      "kind": "회의록",
+      "date": "2022-05-17",
+      "title": "제21대국회 제397회 제1차 정무위원회",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-49",
+      "kind": "의안",
+      "date": "2022-02-14",
+      "title": "전자금융거래법 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-50",
+      "kind": "이슈",
+      "date": "2022-01-17",
+      "title": "모바일 간편결제 확대",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-52",
+      "kind": "회의록",
+      "date": "2021-11-16",
+      "title": "제21대국회 제391회 (정기회) 제7차 정무위원회(2021.11.16.)",
+      "count": 3,
+      "url": ""
+    },
+    {
+      "id": "BILL-51",
+      "kind": "의안",
+      "date": "2021-11-02",
+      "title": "전자금융거래법 일부개정법률안",
+      "count": 2,
+      "url": ""
+    },
+    {
+      "id": "ISS-54",
+      "kind": "이슈",
+      "date": "2021-08-26",
+      "title": "전액 환불",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-55",
+      "kind": "이슈",
+      "date": "2021-08-16",
+      "title": "머지 포인트",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-56",
+      "kind": "보도",
+      "date": "2021-08-14",
+      "title": "머지포인트의 서비스 축소와 환불 및 판매 중단 공지로 논란",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/243/0000015321"
+    },
+    {
+      "id": "BILL-53",
+      "kind": "의안",
+      "date": "2021-08-02",
+      "title": "전자금융거래법 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-57",
+      "kind": "이슈",
+      "date": "2021-07-13",
+      "title": "가상자산업 법안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-58",
+      "kind": "회의록",
+      "date": "2021-07-13",
+      "title": "제21대국회 제389회 (임시회) 제1차 정무위원회(2021.07.13.)",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "APOS-59",
+      "kind": "세미나",
+      "date": "2021-06-17",
+      "title": "핀테크와 디지털 금융의 미래 「전자금융거래법」 개정 국회 토론회",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-60",
+      "kind": "의안",
+      "date": "2021-05-28",
+      "title": "전자금융거래법 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "APOS-61",
+      "kind": "세미나",
+      "date": "2021-03-23",
+      "title": "전자금융거래법 개정안 쟁점과 대응과제",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-62",
+      "kind": "이슈",
+      "date": "2020-09-27",
+      "title": "이용자 보호장치",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ACT-63",
+      "kind": "시행",
+      "date": "2020-08-20",
+      "title": "전자금융거래법 실행",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-65",
+      "kind": "회의록",
+      "date": "2020-07-29",
+      "title": "제21대국회 제380회 (임시회) 제2차 정무위원회(2020.07.29.)",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "ISS-64",
+      "kind": "이슈",
+      "date": "2020-07-07",
+      "title": "대포통장 공범",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-66",
+      "kind": "의안",
+      "date": "2020-06-16",
+      "title": "전자금융거래법 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "NEWS-67",
+      "kind": "보도",
+      "date": "2020-06-15",
+      "title": "가짜 마스크 판매 누리집 일당 기소",
+      "count": 1,
+      "url": "https://n.news.naver.com/mnews/article/028/0002501198"
+    },
+    {
+      "id": "MODI-68",
+      "kind": "개정",
+      "date": "2020-05-19",
+      "title": "전자금융거래법 개정",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "PROD-69",
+      "kind": "공포",
+      "date": "2020-05-19",
+      "title": "전자금융거래법 공포",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-70",
+      "kind": "의안",
+      "date": "2020-04-29",
+      "title": "전자금융거래법 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-71",
+      "kind": "회의록",
+      "date": "2020-04-29",
+      "title": "제20대국회 제377회 제2차 국회본회의",
+      "count": 2,
+      "url": ""
+    },
+    {
+      "id": "MEET-72",
+      "kind": "회의록",
+      "date": "2020-03-05",
+      "title": "제20대국회 제376회 제2차 정무위원회",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-73",
+      "kind": "회의록",
+      "date": "2020-02-21",
+      "title": "제20대국회 제376회 제1차 법안심사제1소위원회",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-74",
+      "kind": "회의록",
+      "date": "2019-11-21",
+      "title": "제20대국회 제371회 제2차 법안심사제1소위원회",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-75",
+      "kind": "회의록",
+      "date": "2019-10-24",
+      "title": "제20대국회 제371회 제1차 법안심사제1소위원회",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MEET-76",
+      "kind": "회의록",
+      "date": "2019-08-22",
+      "title": "제20대국회 제370회 제1차 정무위원회",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-77",
+      "kind": "의안",
+      "date": "2019-05-20",
+      "title": "전자금융거래법 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "BILL-78",
+      "kind": "의안",
+      "date": "2019-02-12",
+      "title": "전자금융거래법 일부개정법률안",
+      "count": 1,
+      "url": ""
+    },
+    {
+      "id": "MAKE-79",
+      "kind": "제정",
+      "date": "2006-04-28",
+      "title": "전자금융거래법 제정",
+      "count": 1,
+      "url": ""
+    }
+  ],
+  "records": [
+    {
+      "number": "2221410",
+      "title": "전자금융거래법 일부개정법률안(대안)",
+      "proposer": "정무위원장",
+      "status": "공포",
+      "date": "2026-09-16",
+      "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2E6K0O9W1Q5W1X1G0R3C1Y8C2F8B6"
+    },
+    {
+      "number": "2221353",
+      "title": "전자금융거래법 일부개정법률안",
+      "proposer": "박상혁",
+      "status": "대안반영폐기",
+      "date": "2026-09-11",
+      "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2W6W0V9W1D1E1C6B1B8Z1A0W1W0V3"
+    }
+  ],
+  "bills": [
+    {
+      "id": "PRC_U2E6K0O9W1Q5W1X1G0R3C1Y8C2F8B6",
+      "number": "2221410",
+      "title": "전자금융거래법 일부개정법률안(대안)(정무위원장)",
+      "proposed": "2026-09-16",
+      "decided": "2026-09-17",
+      "result": "원안가결",
+      "committee": "정무위원회",
+      "promulgated": "2026-09-29",
+      "people": [],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2E6K0O9W1Q5W1X1G0R3C1Y8C2F8B6",
+      "hasAlternatives": true,
+      "text": "대안의 제안이유 및 주요내용\r\n\r\n  2026년 10월 2일 시행 예정인 「검찰청법」 폐지와 「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」에 따라 수사와 기소가 제도적으로 분리되는 새로운 형사사법 체계의 행정조직 기반이 마련되는 것에 맞추어, 2026년 8월 4일 우리나라 형사소송 절차의 기본법인 「형사소송법」을 개정하여 검사의 직접수사권을 폐지하여 수사의 주체를 사법경찰관으로 일원화하고, 검사는 공소제기 및 공소유지를 담당하도록 하는 등 형사사법 체계에 맞게 정비한 바 있음.\r\n  이러한 형사사법 체계의 개편에 맞추어 새로운 형사사법 체계와 맞지 않는 내용을 정비하려는 것임(안 제6조의2제1항).",
+      "fetchedAt": "2026-10-08T06:11:46.795Z",
+      "mode": "live",
+      "relation": "최근 연결 의안"
+    },
+    {
+      "id": "PRC_Y2W6W0V9W1D1E1C6B1B8Z1A0W1W0V3",
+      "number": "2221353",
+      "title": "전자금융거래법 일부개정법률안(박상혁의원 등 10인)",
+      "proposed": "2026-09-11",
+      "decided": "2026-09-17",
+      "result": "대안반영폐기",
+      "committee": "정무위원회",
+      "promulgated": "",
+      "people": [
+        {
+          "id": "22nd:PARKSANGHYUK",
+          "name": "박상혁",
+          "profileUrl": "https://www.assembly.go.kr/members/22nd/PARKSANGHYUK",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/963e0c49236e4f5a83fb777e6225456b.jpg",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2W6W0V9W1D1E1C6B1B8Z1A0W1W0V3",
+      "hasAlternatives": true,
+      "text": "제안이유 및 주요내용\r\n\r\n  2026년 10월 2일 시행 예정인 「검찰청법」 폐지와 「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」에 따라 수사와 기소가 제도적으로 분리되는 새로운 형사사법 체계의 행정조직 기반이 마련되는 것에 맞추어, 2026년 8월 4일 우리나라 형사소송 절차의 기본법인 「형사소송법」을 개정하여 검사의 직접수사권을 폐지하여 수사의 주체를 사법경찰관으로 일원화하고, 검사는 공소제기 및 공소유지를 담당하도록 하는 등 형사사법 체계에 맞게 정비한 바 있음.\r\n  이러한 형사사법 체계의 개편에 맞추어 새로운 형사사법 체계와 맞지 않는 내용을 정비하려는 것임(안 제6조의2제1항).",
+      "fetchedAt": "2026-10-08T06:11:47.193Z",
+      "mode": "live",
+      "relation": "대안에 연결된 원안"
+    },
+    {
+      "id": "PRC_K2K6I0J8H0I7Q1O7P1N7O3M9N8V3V1",
+      "number": "2220741",
+      "title": "전자금융거래법 일부개정법률안(황운하의원 등 10인)",
+      "proposed": "2026-08-24",
+      "decided": "2026-09-17",
+      "result": "대안반영폐기",
+      "committee": "정무위원회",
+      "promulgated": "",
+      "people": [
+        {
+          "id": "22nd:HWANGUNHA",
+          "name": "황운하",
+          "profileUrl": "https://www.assembly.go.kr/members/22nd/HWANGUNHA",
+          "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/06c8428e6785477abb1f105fa11685b4.jpg",
+          "role": "대표발의"
+        }
+      ],
+      "sourceUrl": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2K6I0J8H0I7Q1O7P1N7O3M9N8V3V1",
+      "hasAlternatives": true,
+      "text": "제안이유 및 주요내용\r\n\r\n  현행법은 불법 광고에 이용된 전화번호를 확인한 경우 검찰총장, 경찰청장 또는 금융감독원장이 과학기술정보통신부장관에게 해당 전화번호의 전기통신역무 제공 중지를 요청할 수 있도록 규정하고 있음.\r\n  그러나 수사와 기소를 분리하는 형사사법체계의 개편에 따라 검사는 공소제기 여부의 결정과 공소유지를 담당하고, 범죄수사는 법률에 따라 수사권을 부여받은 수사기관이 담당하도록 관련 규정을 정비할 필요가 있음.\r\n  이에 불법 광고에 이용된 전화번호의 이용중지 요청 주체 중 검찰총장을 중대범죄수사청장으로 변경하여, 실제 수사를 담당하는 기관이 필요한 조치를 할 수 있도록 하고 수사와 기소의 분리 원칙을 현행법에 반영하려는 것임(안 제6조의2제1항).",
+      "fetchedAt": "2026-10-08T06:11:47.289Z",
+      "mode": "live",
+      "relation": "대안에 연결된 원안"
+    }
+  ],
+  "people": [
+    {
+      "id": "22nd:PARKSANGHYUK",
+      "name": "박상혁",
+      "profileUrl": "https://www.assembly.go.kr/members/22nd/PARKSANGHYUK",
+      "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/963e0c49236e4f5a83fb777e6225456b.jpg",
+      "role": "대표발의",
+      "billIds": [
+        "PRC_Y2W6W0V9W1D1E1C6B1B8Z1A0W1W0V3"
+      ]
+    },
+    {
+      "id": "22nd:HWANGUNHA",
+      "name": "황운하",
+      "profileUrl": "https://www.assembly.go.kr/members/22nd/HWANGUNHA",
+      "image": "https://www.assembly.go.kr/static/portal/img/openassm/new/thumb/06c8428e6785477abb1f105fa11685b4.jpg",
+      "role": "대표발의",
+      "billIds": [
+        "PRC_K2K6I0J8H0I7Q1O7P1N7O3M9N8V3V1"
+      ]
+    }
+  ],
+  "alternativeTotal": 2,
+  "scope": "아르고스가 최근 연결한 의안 1건과 그 대안에 연결된 원안(최대 20건)",
+  "warnings": [],
+  "fetchedAt": "2026-10-08T06:11:47.292Z",
+  "mode": "live"
+}
